@@ -17,7 +17,8 @@ Basically just a copy-paste of my rentry page: Pixelated Pathways at: https://re
 > Created by *`Dietz`*
 > Message me on Discord @ %violet% dietz_r %%
 Last Updated:  January 17, 2024
-**VISIT the [MIRROR](https://pixelated-pathways.neocities.org/) ~ it's prettier!**
+**VISIT the [MIRROR](https://courage-1984.github.io/pixelated-pathways/) ~ it's prettier!**
+**OR [MIRROR 2](https://pixelated-pathways.static.domains/)**
 ---
 # 📝 Table of Contents
 
@@ -77,6 +78,10 @@ Last Updated:  January 17, 2024
 - [Awesome GitHub](https://github.com/fffaraz/awesome-github) *A curated list of awesome GitHub tools, libraries, resources, and shiny things.*
 - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) *A curated list of command line apps*
 - [Awesome Shell](https://github.com/alebcay/awesome-shell) *A curated list of awesome command-line frameworks, toolkits, guides and gizmos.*
+- [Awesome open-source alternatives to SaaS](https://github.com/RunaCapital/awesome-oss-alternatives) *Awesome list of open-source startup alternatives to well-known SaaS products*
+- [Subreddits](https://github.com/learn-anything/reddit) *Awesome Reddit subreddits*
+- [Awesome Programming Subreddits](https://github.com/iCHAIT/awesome-subreddits) *A curated list of awesome programming subreddits.*
+- [Aesthetic Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) *An awesome collection of aesthetic wallpapers *
 - []() **
 
 %#00ced1% **Now onto other Collections of Lists:** %%
@@ -184,7 +189,7 @@ cell   | cell
 - []() **
 
 ***
-### -> 🪟 Windows Optimization <-
+### -> 🪟 Windows Optimization, Customization & Privacy <-
 
 !!! info
     Windows privacy, security, performance, productivity and customization. Windows settings, features and utilities. Block spying, tracking and telemetry on Windows. Remove Bloatware and monitor your Windows. become a SUPER-USER!
@@ -390,6 +395,9 @@ cell   | cell
 - [DeepL Translate](https://www.deepl.com/en/translator) *The world's most accurate translator*
 - [waifu2x](https://waifu2x.udp.jp/index.html) *Enhance photos (mainly anime styled ones).*
 ~~- [TeamDrive Generator](https://td.msgsuite.workers.dev/) *This website is a free generator of shared drives.*~~
+- [GradientArt](https://gra.dient.art/) *Advanced CSS Gradient Editor*
+- [Random Subreddit Generator Single](https://perchance.org/subreddits) *Generate a single random Subreddit*
+- [Random Subreddits Generator List](https://www.coolgenerator.com/random-subreddits-generator) *Generate a list of random Subreddits*
 - []() **
 
 #### 📁 File Converters
@@ -426,6 +434,12 @@ cell   | cell
 - [Startpage](https://www.startpage.com/) *Startpage is a private search engine. Protect your privacy, one search at a time.*
 - [opendirsearch](https://opendirsearch.abifog.com/) *Open Directory Search Tool*
 - [TinEye Reverse Image Search](https://tineye.com/) *Find where images appear online.*
+- []() **
+
+#### 🔀 Generators
+- [Perchance](https://perchance.org/welcome) *Create a Random Generator *
+- [coolgenerator](https://www.coolgenerator.com/) *Cool Generator List - Name, Number, Word, Text, Font, Color, Credit Card Generator*
+- [RandomGenerate-io](https://randomgenerate.io/) *Randomizer for Everything*
 - []() **
 
 #### 🎦 Screenshot Websites
@@ -855,6 +869,12 @@ Cell   | Cell   | Cell
 - [API List: A public list of free APIs for programmers](https://apilist.fun/)
 - [A collective list of free APIs](https://github.com/public-apis/public-apis)
 
+#### -> 😎 Cool Stuff <-
+- [90s Cursor Effects](https://github.com/tholman/cursor-effects) *Old-school cursor effects for your browser built with modern JavaScript*
+- []() **
+
+
+
 ***
 ### -> 🌟 Interesting Stuff <-
 
@@ -946,6 +966,7 @@ Cell   | Cell   | Cell
 - [r/HowToHack](https://www.reddit.com/r/HowToHack/) *This is your open hacker community designed to help you on the journey from neophyte to veteran in the world of underground skillsets.*
 - [r/YTdatahoarding](https://www.reddit.com/r/YTdatahoarding/) *This is a community for data hoarding YouTube videos.*
 - [r/thehatedone](https://www.reddit.com/r/thehatedone/) *This subreddit is for anyone who wants to stand up for themselves in the age of digital surveillance, corporate censorship, and centralized control.*
+- [r/shortcuts](https://www.reddit.com/r/shortcuts/) *This subreddit is devoted to Shortcuts. Shortcuts is an Apple app for automation on iOS, iPadOS, and macOS.*
 - []() **
 
 ***
