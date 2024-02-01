@@ -16,9 +16,13 @@ Basically just a copy-paste of my rentry page: Pixelated Pathways at: https://re
 
 > Created by *`Dietz`*
 > Message me on Discord @ %violet% dietz_r %%
-Last Updated:  January 17, 2024
+Last Updated:  January 30, 2024
 **VISIT the [MIRROR](https://courage-1984.github.io/pixelated-pathways/) ~ it's prettier!**
-**OR [MIRROR 2](https://pixelated-pathways.static.domains/)**
+**OR [MIRROR 2](https://pixelated-pathways.neocities.org/)**
+**OR [MIRROR 3](https://pixelated-pathways.static.domains/)**
+
+**ALSO: View my Github Repos for some useful and handy stuff: [https://github.com/Courage-1984](https://github.com/Courage-1984)**
+
 ---
 # 📝 Table of Contents
 
@@ -33,10 +37,17 @@ Last Updated:  January 17, 2024
 !!! note
 	The info/links on this page is semi organized (what's included and what I want to still implement is very broad so this becomes a bit difficult) but I would suggest either Use the "Table of Contents" to see and quickly navigate to what you want or take some time and explore the entire page! (You never know you might end up learning something new or discover something useful!)
 ***
-### -> 😼 sizeof(cat) <-
+### -> 🔬 Epic Knowledge Bases <-
 
--> **These links are provided as a convenience to assist you in the search for information since search engines are completely fucked up!** <-
--> >>> [Links - sizeof(cat)](https://sizeof.cat/links/) <<< <-
+- [Links - sizeof(cat)](https://sizeof.cat/links/) ** - These links are provided as a convenience to assist you in the search for information since search engines are completely fucked up!**
+
+- [My Knowledge Wiki](https://wiki.nikiv.dev/) ** - This is my personal wiki where I share everything I know about this world in form of an online wiki**
+
+- [Learn Anything](https://learn-anything.xyz/) ** - Learn Anything - I want to learn**
+
+- [The More You Know](https://marckoxx.github.io/) ** - A list of things that you should know, especially during this day and age.**
+
+- [Warren](https://github.com/torchhound/warren) ** - Links to lose yourself in, curated from HN and other sources**
 
 ***
 ### -> 📚 Awesome Lists / Collections of Lists <-
@@ -45,6 +56,7 @@ Last Updated:  January 17, 2024
 
 %#ff5ea6% **Here is the top-level lists of Awesome Lists:** %%
 [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
+[bookmarks](https://github.com/topics/bookmarks) - Public Repositories matching this topic "bookmarks".
 [Main Repository](https://github.com/sindresorhus/awesome) - Serves as a curated list of awesome lists.😎Awesome lists about all kinds of interesting topics.
 [Project-Awesome](https://project-awesome.org/) - Curated list of awesome lists.
 [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of amazingly awesome awesomeness.
@@ -69,6 +81,7 @@ Last Updated:  January 17, 2024
 
 %#ff5ea6% **Some Awesome Lists to mention:** %%
 - [Track Awesome List](https://www.trackawesomelist.com/#top-50-awesome-list) *Track your Favorite Github Awesome List Daily. We track over 500 awesome lists.*
+- [awesome-bookmarking](https://github.com/dogancelik/awesome-bookmarking) *Everything bookmarking related.*
 - [Awesome-DataHoarding](https://github.com/simon987/awesome-datahoarding) *List of data-hoarding related tools*
 - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) *A collection of various awesome lists for hackers, pentesters and security researchers*
 - [Awesome Python](https://github.com/vinta/awesome-python) *A curated list of awesome Python frameworks, libraries, software and resources*
@@ -82,21 +95,31 @@ Last Updated:  January 17, 2024
 - [Subreddits](https://github.com/learn-anything/reddit) *Awesome Reddit subreddits*
 - [Awesome Programming Subreddits](https://github.com/iCHAIT/awesome-subreddits) *A curated list of awesome programming subreddits.*
 - [Aesthetic Wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) *An awesome collection of aesthetic wallpapers *
+- [awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps) *Awesome (free) web apps that work without login*
 - []() **
 
 %#00ced1% **Now onto other Collections of Lists:** %%
-- [The More You Know](https://marckoxx.github.io/) *A list of things that you should know, especially during this day and age.*
 - [Lists](https://github.com/jnv/lists) *The definitive list of lists (of lists) curated on GitHub and elsewhere*
-- [Warren](https://github.com/torchhound/warren) *Links to lose yourself in, curated from HN and other sources*
 - [List of github lists](https://github.com/asciimoo/ListOfGithubLists) *List of github lists*
 - [BOOKMRKS-MTHRFCKR](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR) *The Internet's Biggest and Best Collection of Bookmarks, Resources, Hidden Gems and Everything Else, MTHRFCKR!*
 - [BOOKMRKS-MTHRFCKR-II](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR-II) *An even bigger, better, collection....MTHRFCKR!*
 - [Web Links | num's soda page](https://soda.privatevoid.net/num/links/) *The links are of various topics.*
+- [Main tools database](https://www.reddit.com/r/Stumbledon/comments/v8mh5y/main_tools_directory_personally_curated_database/) *Main tools directory - (personally curated) database containing around 4,000 links*
+- [Amazing websites that few people know about ](https://eksisozluk.com/az-kisinin-bildigi-muhtesem-web-siteleri--2764697?a=nice) *Amazing websites that few people know about *
+- [whoisdsmith](https://raindrop.io/whoisdsmith) *16 public raindrop-io collections*
+- [Directories](https://raindrop.io/esports/directories-8708249) *50 bookmarks of curated lists of all kinds of stuff*
 - [href-cool](https://href.cool/) *List of Old / Weird Sites*
 - [The 101 Most Useful Websites on the Internet](https://www.labnol.org/internet/101-useful-websites/18078/) *The most useful websites on the Internet that will make you smarter, increase productivity and help you learn new skills*
 - [Which websites do you usually visit when you are bored of reddit?](https://www.reddit.com/r/AskReddit/comments/1hb8qo/which_websites_do_you_usually_visit_when_you_are/) *Which websites do you go to when you are bored of surfing reddit?*
 - [Bigwax's Website Compilation](https://pastehtml.com/view/b814w8vvv.html) *Curated and categorized list made by redditor u/bigwax so all credit goes to him!*
 - []() **
+
+%#00ced1% **Public Pages Exploration:** %%
+- [https://www.google.com/search?hl=tr&as_q=&as_epq=&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=https%3A%2F%2Fpublish.obsidian.md%2F&as_occt=url&as_filetype=&tbs=](https://www.google.com/search?hl=tr&as_q=&as_epq=&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=https%3A%2F%2Fpublish.obsidian.md%2F&as_occt=url&as_filetype=&tbs=) *Google Search - Obsidian Publish*
+- [https://www.google.com/search?hl=tr&as_q=&as_epq=&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=https%3A%2F%2Fraindrop.io%2F&as_occt=url&as_filetype=&tbs=](https://www.google.com/search?hl=tr&as_q=&as_epq=&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=https%3A%2F%2Fraindrop.io%2F&as_occt=url&as_filetype=&tbs=) *Google Search - Raindrop-io*
+- [https://www.google.com/search?hl=tr&as_q=&as_epq=&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=https%3A%2F%2Fstart.me%2Fp%2F&as_occt=url&as_filetype=&tbs=](https://www.google.com/search?hl=tr&as_q=&as_epq=&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=https%3A%2F%2Fstart.me%2Fp%2F&as_occt=url&as_filetype=&tbs=) *Google Search - Start-me*
+- [https://www.google.com/search?hl=tr&as_q=&as_epq=&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=notion.so%2F&as_occt=url&as_filetype=&tbs=](https://www.google.com/search?hl=tr&as_q=&as_epq=&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=notion.so%2F&as_occt=url&as_filetype=&tbs=) *Google Search - Notion-so*
+- [https://www.google.com/search?hl=tr&as_q=&as_epq=&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=https%3A%2F%2Fwakelet.com%2Fwake%2F&as_occt=url&as_filetype=&tbs=](https://www.google.com/search?hl=tr&as_q=&as_epq=&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=https%3A%2F%2Fwakelet.com%2Fwake%2F&as_occt=url&as_filetype=&tbs=) *Google Search - Wakelet*
 
 ***
 ### -> 📑 Other Awesome "Rentry's" (*pages like this*) <-
@@ -129,6 +152,7 @@ cell   | cell
 *it is paramount*
 - [Privacy Guides](https://www.privacyguides.org/en/) *Your Independent Privacy and Security Resource. The guide to restoring your online privacy.*
 - [Privacy Tools](https://www.privacytools.io/) *Privacy Tools: Fight Mass Surveillance with Encryption - Best Privacy Tools & Software Guide*
+- [Cover Your Tracks](https://coveryourtracks.eff.org/) *See how trackers view your browser*
 - [Awesome Windows privacy](https://github.com/TemporalAgent7/awesome-windows-privacy) *A list of awesome tools, documentation and scripts for better privacy on Microsoft Windows*
 - [r/privacy](https://www.reddit.com/r/privacy/wiki/index/) *Privacy & Freedom in the Information Age*
 - [PRISM Break](https://prism-break.org/en/) *Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora*
@@ -139,6 +163,7 @@ cell   | cell
 - [DEDA](https://github.com/dfd-tud/deda) *DEDA - tracking Dots Extraction, Decoding and Anonymisation toolkit.*
 - [Official Malware Removal Guide](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) *SUGGESTED READING Official Malware Removal Guide*
 - [Alternative Internet](https://github.com/redecentralize/alternative-internet) *A collection of interesting new networks and tech aiming at decentralisation (in some form).*
+- [Let's Block It!](https://letsblock.it/) *Remove low-quality content and useless nags, focus on what matters. Make the web yours again with this collection of community-owned content filters.*
 - []() **
 
 #### -> 💬 Privacy Focused Messengers <-
@@ -186,6 +211,8 @@ cell   | cell
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint) *A curated list of amazingly awesome OSINT*
 - [Subdomain Finder](https://subdomainfinder.c99.nl/index.php) *Subdomain Finder - C99.nl*
 - [DNSdumpster](https://dnsdumpster.com/) *dns recon and research, find and lookup dns records*
+- [Whois](https://www.whois.com/whois) *Free Whois Lookup - Whois IP Search & Whois Domain Lookup*
+- [DomainTools](https://whois.domaintools.com/) *Whois Lookup, Domain Availability & IP Search*
 - []() **
 
 ***
@@ -194,7 +221,10 @@ cell   | cell
 !!! info
     Windows privacy, security, performance, productivity and customization. Windows settings, features and utilities. Block spying, tracking and telemetry on Windows. Remove Bloatware and monitor your Windows. become a SUPER-USER!
 
-*I suggest you try these out in the order that they are in this list: (they are ordered)* (the first part of this list is/was tested by me and is being used by me)
+- [System Tools, Hardware Tools, Windows ISOs, Customization](https://fmhy.net/system-tools) *System Tools, Hardware Tools, Windows ISOs, Customization*
+- [Eylenburg's Tech Website](https://eylenburg.github.io/) *Detailed Comparisons of OS's, Browsers, Environments and Services*
+- [Ricing Guide](https://www.ricing.chloechantelle.com/) *Making visual improvements and customization to your desktop and/or phone that can simplify your desktop environment but (generally) are completely pointless.*
+- [Open-Shell](https://open-shell.github.io/Open-Shell-Menu/) *A collection of utilities bringing back classic features to Windows.*
 - [KMS_VL_ALL_AIO](https://raw.githubusercontent.com/abbodi1406/KMS_VL_ALL_AIO/master/KMS_VL_ALL_AIO.cmd) *Right click this link and save as KMS_VL_ALL_AIO.cmd. The BEST windows and office activator.*
 - [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) *The Sysinternals Troubleshooting Utilities have been rolled up into a single Suite of tools*
 - [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) *Process Explorer shows you information about which handles and DLLs processes have opened or loaded*
@@ -215,6 +245,7 @@ cell   | cell
 - [optimizer](https://github.com/hellzerg/optimizer) *The finest Windows Optimizer*
 - [Privacy is sexy](https://privacy.sexy/) *Enforce privacy & security on Windows, macOS and Linux*
 - [SophiApp](https://github.com/Sophia-Community/SophiApp) *The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11*
+- [JetBrains Mono](https://www.jetbrains.com/lp/mono/) *A free and open source typeface for developers*
 - []() **
 
 #### 🗃️ Windows Files
@@ -259,6 +290,7 @@ cell   | cell
 - [MediaInfo](https://mediaarea.net/en/MediaInfo) *convenient unified display of the most relevant technical and tag data for video and audio files*
 - [WinMerge](https://winmerge.org/) *Open Source differencing and merging tool for Windows*
 - [VLC](https://www.videolan.org/vlc/) *open source cross-platform multimedia player*
+- ^ Also check out this repo: [VLC Shuffle Playlist](https://github.com/Courage-1984/VLC-Shuffle-Playlist-WORKING) for "Shuffle Playlist" VLC addon.
 - [MPC-BE](https://sourceforge.net/projects/mpcbe/) *open source audio and video player for Windows*
 - [mpv](https://mpv.io/) *a free, open source, and cross-platform media player for the command line*
 - [Potplayer](https://potplayer.daum.net/) *a media player*
@@ -305,6 +337,16 @@ cell   | cell
 - [AutoHotkey](https://www.autohotkey.com/) *The ultimate automation scripting language for Windows.*
 - [Mouse Wheel Accelerator](https://sourceforge.net/projects/mwaccelerator/) *Mouse Wheel Accelerator improves the wheel scroll in windows towards dynamic smooth iPhone-like scrolling.*
 - [HandBrake](https://handbrake.fr/) *Open Source Video Transcoder*
+- [Discord](https://discord.com/) *Your Place to Talk and Hang Out*
+- [Warframe](https://www.warframe.com/download) *Warframe is a free-to-play action role-playing third-person shooter multiplayer online game.*
+- [Epic Games Launcher](https://store.epicgames.com/en-US/download) *Epic Games Launcher From the Epic Games Store*
+- [Steam](https://store.steampowered.com/) *Steam is the ultimate destination for playing, discussing, and creating games.*
+- [Node-js](https://nodejs.org/en) *Node.js® is an open-source, cross-platform JavaScript runtime environment.*
+- [Python](https://www.python.org/downloads/) *Python is powerful... and fast; plays well with others; runs everywhere; is friendly & easy to learn; is Open.*
+- [Ruby](https://rubyinstaller.org/downloads/) *A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.*
+- [Git](https://git-scm.com/downloads) *Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.*
+- [XAMPP](https://www.apachefriends.org/download.html) *XAMPP is a free and open-source cross-platform web server solution stack package developed by Apache Friends, consisting mainly of the Apache HTTP Server, MariaDB database, and interpreters for scripts written in the PHP and Perl programming languages.*
+- [Insomnia](https://insomnia.rest/download) *Start building, designing, testing better APIs through spec-first development driven by an APIOps CI/CD pipelines.*
 - []() **
 
 #### 🧩 Extensions Top Picks
@@ -335,6 +377,14 @@ cell   | cell
 - [Decentraleyes](https://decentraleyes.org/) *Protects you against tracking through "free", centralized, content delivery.*
 - [NoScript Security Suite](https://noscript.net/) *Allow potentially malicious web content to run only from sites you trust.*
 - [Reddit Random Redirect](https://addons.mozilla.org/en-US/firefox/addon/reddit-random-redirect/) *A lightweight Firefox extension that instantly transports you to a random subreddit with a single click.*
+- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) *A browser extension that takes you to a random site from one of the awesome curated lists. Like good ol' StumbleUpon, for developers, tech & science lovers.*
+- [FireShot](https://addons.mozilla.org/en-US/firefox/addon/fireshot/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) *Performs full page screen capture.*
+- [User Agent Switcher and Manager](https://add0n.com/useragent-switcher.html) *The "User-Agent Switcher and Manager" extension allows you to alter your browser's User-Agent string, which is used by web servers to provide content to you.*
+- [Youtube Volume Scroll](https://github.com/Araxeus/Youtube-Volume-Scroll) *Browser Extension that enable scrolling mousewheel to control volume on Youtube and Youtube Music.*
+- [Tab Preview On Hover](https://github.com/easonwong-de/Tab-Preview-On-Hover) *Adds on-hover tab preview to Firefox (requires CSS theme).*
+- [Export Cookies](https://github.com/rotemdan/ExportCookies) *WebExtension to export cookies to a Netscape format cookies.txt file.*
+- [Magnifying Glass](https://addons.mozilla.org/en-US/firefox/addon/magnifying-glass/) *Convert your mouse cursor to a high-quality magnifying glass.*
+- [Open in Browser](https://addons.mozilla.org/en-US/firefox/addon/open-in-browser/) *Offers the possibility to display documents in the browser window.*
 - []() **
 
 #### 📜 Scripts
@@ -358,6 +408,7 @@ cell   | cell
 - [Divolt](https://divolt.xyz/) *Divolt*
 - [Divolt Desktop](https://github.com/fmhy/divolt-desktop) *Revolt Desktop App, rebuilt for Divolt.*
 - [ytdl-sub](https://github.com/jmbannon/ytdl-sub) *Automate downloading and metadata generation with YoutubeDL*
+- [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) *Exports Discord chat logs to a file*
 - []() **
 
 #### 📓 Software Guides
@@ -365,6 +416,8 @@ cell   | cell
 - [Babbies First Linux](https://wiki.installgentoo.com/index.php/Babbies_First_Linux) *For beginners I recommend Linux Mint, Ubuntu, or Pop!_OS.*
 - [Friendly GNU/Linux Thread/Website](https://fglt.nl/) *Friendly GNU/Linux guides and resources.*
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) *Master the command line, in one page*
+- [ImHex](https://github.com/WerWolv/ImHex) *A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.*
+- [ImHex Web](https://web.imhex.werwolv.net/) *Free Online Hex Editor for Reverse Engineers*
 - []() **
 
 ***
@@ -376,11 +429,20 @@ cell   | cell
 #### 📇 Tool Indexes
 - [MrFreeTools](https://mrfreetools.com/) *Mr. Free Tools - The Best Free Tools & Resources*
 - [Top free tools](https://itch.io/tools/free) *Top free tools*
+- [Verification Toolset](https://start.me/p/ZGAzN7/verification-toolset) *A page with al kinds of tools listed.*
 - [delightful creative tools](https://codeberg.org/ADHDefy/delightful-creative-tools) *A curated list of delightful tools for digital creatives in a variety of mediums.*
 
 #### 🔧 Most Useful
+
+**Online Url and File Analyses:**
 - [VirusTotal](https://www.virustotal.com/) *Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches*
+- [Hybrid Analysis](https://www.hybrid-analysis.com/) *Free Automated Malware Analysis Service. This is a free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology.*
+- [Cloudflare Radar URL Scanner](https://radar.cloudflare.com/scan) *Understand the security, performance, technology, and network details of a URL with a publicly shareable report.*
+- [Jotti's malware scan](https://virusscan.jotti.org/) *Jotti's malware scan is a free service that lets you scan suspicious files with several anti-virus programs.*
+
+**Misc:**
 - [send-anywhere](https://send-anywhere.com/) *Anyone can send and receive files simply and securely with Send Anywhere.*
+- [Buzzheavier](https://buzzheavier.com/) *Simple, Fast, Anonymous file sharing for everyone. - File host, no upload limit, files last forever.*
 - [chatGPT](https://chat.openai.com/) *leading AI / LLM | Use for almost anything - chat, coding, advice, ideas, etc. etc.*
 - [Terms of Service; Didn't Read](https://tosdr.org/) *“Terms of Service; Didn't Read” (short: ToS;DR) is a project started in June 2012 to help fix the “biggest lie on the web”: almost no one really reads the terms of service we agree to all the time.*
 - [World Ping Test](https://www.meter.net/tools/world-ping-test/) *World Ping Test - global ping test*
@@ -398,6 +460,8 @@ cell   | cell
 - [GradientArt](https://gra.dient.art/) *Advanced CSS Gradient Editor*
 - [Random Subreddit Generator Single](https://perchance.org/subreddits) *Generate a single random Subreddit*
 - [Random Subreddits Generator List](https://www.coolgenerator.com/random-subreddits-generator) *Generate a list of random Subreddits*
+- [Visualping](https://visualping.io/) *Website monitoring, change detection, and alerts - We monitor website changes ...so you don’t have to!*
+- [iknowwhatyoudownload](https://iknowwhatyoudownload.com/) *Torrent downloads and distributions for Your IP (or others...).*
 - []() **
 
 #### 📁 File Converters
@@ -412,6 +476,7 @@ cell   | cell
 - [12ft Ladder](https://12ft.io/) *Browse a cleaner web! Remove popups, banners, and ads from any website.*
 
 #### ✏️ text / char stuff
+- [Code Beautify](https://codebeautify.org/) *Code Beautify and Code Formatter For Developers - to Beautify, Validate, Minify, JSON, XML, JavaScript, CSS, HTML, Excel and more*
 - [Emojipedia](https://emojipedia.org/) *Home of Emoji Meanings. Easily copy emojis to use elsewhere*
 **note:** Quickly access emojis on Windows by "Win + ;"
 - [Emoji Combos](https://emojicombos.com/) *database of emojis*
@@ -466,6 +531,7 @@ cell   | cell
 - [ScreenBean](https://www.screenbean.brunnerliv.io/) *Pimp your screenshots!*
 - [PhotoMosh](https://photomosh.com/) *Unlimited creative control for image and video glitching.*
 - [remove-bg](https://www.remove.bg/) *Remove Image Background*
+- [PicResize](https://picresize.com/en/batch) *Easily crop, resize, and edit your images online for FREE*
 - [SVG Crop](https://svgcrop.com/) *Remove blank space from around any SVG instantly.*
 - [SVG Editor](https://svgeditoronline.com/editor/) *Edit SVG online*
 - [Vector Paint](https://vectorpaint.yaks.co.nz/) *SVG Editor*
@@ -486,6 +552,28 @@ cell   | cell
 - [iLoveIMG](https://www.iloveimg.com/) *The fastest free web app for easy image modification.*
 - [PhotoRetrica](https://photoretrica.com/) *Photo Editor Online, Edit your images like a PRO with a full set of tools in one place!*
 - [Pixlr](https://pixlr.com/) *Free Online AI Photo Editor, Image Generator & Design tool*
+- []() **
+
+#### -> 🤖 AI <-
+
+##### Prompts
+
+- [Ultimate AI Image Prompt Generator](https://promptlygenerated.com/image_prompt_generate) *Effortless Prompt Engineering for All*
+- [ALMOCO](https://almoco.ai/) *World Best Midjourney Prompts for Creative Illustrations*
+- [Prompt Library](https://promptlibrary.org/) *MIDJOURNEY PROMPT LIBRARY - Free Prompts for Midjourney*
+- []() **
+
+##### Image & Video Generation
+
+- [Stable Diffusion Online](https://stablediffusionweb.com/) *Create free AI generated images - Stable Diffusion Online*
+- [NightCafe Creator](https://creator.nightcafe.studio/) *Create free AI generated images - Create Something Amazing*
+- [BasedLabs](https://www.basedlabs.ai/generate) *Generate Videos from Images for Free - AI video powerhouse and community*
+- [dreamlike](https://dreamlike.art/) *Free AI Art Generator, AI Art Maker*
+- [Dream by WOMBO](https://dream.ai/create) *AI Powered Artwork Tool*
+- [artbreeder](https://www.artbreeder.com/) *Generate AI Images*
+- [Leonardo-ai](https://leonardo.ai/) *Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency.*
+- [picsart](https://picsart.com/images/ai-generated-image) *Generate images with AI*
+- [Craiyon](https://www.craiyon.com/) *Free AI image generator: Create AI Art*
 - []() **
 
 #### -> 🔧 Other Lists of Online Tools <-
@@ -641,6 +729,7 @@ Basic Tidal subscription required - 'pro' gui
 
 - [Internet Archive](https://archive.org/) *Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.*
 - [Wayback Machine](http://web.archive.org/) *Explore more than 860 billion web pages saved over time.*
+- [CachedView](https://cachedview.com/) *Google Cached Pages of Any Website*
 - [The-Archive](https://the-archive.xyz/) *The-Archive is a dedicated group of people focused on digital media archival and preservation.*
 - [Open Directories Subreddit](https://www.reddit.com/r/opendirectories/) *Images of indexes or directories. They can be open or not. We also accept links to unprotected directories of pics, vids, music, software and otherwise interesting files.*
 - [T E X T F I L E S D O T C O M](http://www.textfiles.com/) *An Archive of txt files*
@@ -862,6 +951,7 @@ Cell   | Cell   | Cell
 - [VS Code can do that?](https://vscodecandothat.com/) `NOT WORKING LAST I CHECKED`
 - [VS Code settings you should customize](https://dev.to/softwaredotcom/vs-code-settings-you-should-customize-5e75)
 - [Make VS Code Even Better With These Settings and Tools](https://betterprogramming.pub/make-vs-code-even-better-with-these-settings-and-tools-95144650d8c5)
+- [JetBrains Mono](https://www.jetbrains.com/lp/mono/) *A free and open source typeface for developers*
 - []()
 
 #### -> 🚈 Public APIs <-
@@ -882,6 +972,7 @@ Cell   | Cell   | Cell
 !!! note
     Just a list of interesting, possibly useful sites.
 
+- [The Internet map](http://internet-map.net/) *The map of the Internet*
 - [The Useless Web](https://theuselessweb.com/) *The Useless Web... because some websites, we just couldn't do without.*
 - [Radio Garden](https://radio.garden/) *Explore live radio by rotating the globe. RADIO WORLDWIDE*
 - [QRBTF](https://qrbtf.com/) *QRBTF stands for “QR Code Beautifier” and with it create awesome QR codes!*
@@ -938,6 +1029,7 @@ Cell   | Cell   | Cell
 - [Aesthetics Wiki | Fandom](https://aesthetics.fandom.com/wiki/Aesthetics_Wiki)
 - [Aesthetics Wiki | Aesthetics+BreezeWiki](https://breezewiki.com/aesthetics/wiki/Aesthetics_Wiki)
 - [Rentry Text Colors](https://rentry.org/rentry-text-colors)
+- [Lostwave](https://en.m.wikipedia.org/wiki/Lostwave)
 - []()
 
 ***
@@ -967,6 +1059,8 @@ Cell   | Cell   | Cell
 - [r/YTdatahoarding](https://www.reddit.com/r/YTdatahoarding/) *This is a community for data hoarding YouTube videos.*
 - [r/thehatedone](https://www.reddit.com/r/thehatedone/) *This subreddit is for anyone who wants to stand up for themselves in the age of digital surveillance, corporate censorship, and centralized control.*
 - [r/shortcuts](https://www.reddit.com/r/shortcuts/) *This subreddit is devoted to Shortcuts. Shortcuts is an Apple app for automation on iOS, iPadOS, and macOS.*
+- [r/Stumbledon](https://www.reddit.com/r/Stumbledon/) *A subreddit for sharing useful websites, fun websites, unknown websites, strange websites, weird websites, lesser known websites, and related Reddit posts occasionally shared in posts as well.*
+- [r/datacurator](https://www.reddit.com/r/datacurator/) *A place for us less messy data hoarders.*
 - []() **
 
 ***
