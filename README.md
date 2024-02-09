@@ -49,6 +49,8 @@ Last Updated:  January 30, 2024
 
 - [Warren](https://github.com/torchhound/warren) ** - Links to lose yourself in, curated from HN and other sources**
 
+- [the Curricula](https://www.thecurricula.com/) ** - the Curricula, search for something to learn**
+
 ***
 ### -> 📚 Awesome Lists / Collections of Lists <-
 
@@ -156,11 +158,14 @@ cell   | cell
 - [Awesome Windows privacy](https://github.com/TemporalAgent7/awesome-windows-privacy) *A list of awesome tools, documentation and scripts for better privacy on Microsoft Windows*
 - [r/privacy](https://www.reddit.com/r/privacy/wiki/index/) *Privacy & Freedom in the Information Age*
 - [PRISM Break](https://prism-break.org/en/) *Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora*
+- [Mine](https://www.saymine.com/) *The Future of Data Ownership - Mine allows you to discover where your personal data is, and reduce your online exposure to minimize digital risks.*
 - [Just Delete Me](https://justdeleteme.xyz/) *A directory of direct links to delete your account from web services.*
 - [Just Get My Data](https://justgetmydata.com/) *A directory of direct links for you to obtain your data from web services.*
 - [deletefacebook](https://deletefacebook.com/guide/) *Delete Facebook Guide.*
+- [Proton](https://proton.me/) *A better internet starts with privacy and freedom - Take control of your data with end-to-end encryption.*
 - [Tor Project](https://www.torproject.org/) *Defend yourself against tracking and surveillance. Circumvent censorship.*
 - [DEDA](https://github.com/dfd-tud/deda) *DEDA - tracking Dots Extraction, Decoding and Anonymisation toolkit.*
+- [r/antivirus](https://www.reddit.com/r/antivirus/wiki/index/) *For all of your Antivirus Needs.*
 - [Official Malware Removal Guide](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) *SUGGESTED READING Official Malware Removal Guide*
 - [Alternative Internet](https://github.com/redecentralize/alternative-internet) *A collection of interesting new networks and tech aiming at decentralisation (in some form).*
 - [Let's Block It!](https://letsblock.it/) *Remove low-quality content and useless nags, focus on what matters. Make the web yours again with this collection of community-owned content filters.*
@@ -221,31 +226,103 @@ cell   | cell
 !!! info
     Windows privacy, security, performance, productivity and customization. Windows settings, features and utilities. Block spying, tracking and telemetry on Windows. Remove Bloatware and monitor your Windows. become a SUPER-USER!
 
+#### **🍙 Ricing**
+- [Ricing Guide](https://www.ricing.chloechantelle.com/) *Making visual improvements and customization to your desktop and/or phone that can simplify your desktop environment but (generally) are completely pointless.*
+- [Nanami-tan Github Repo](https://github.com/namazso/nanami-tan/) *Ricing resource and index of helpful links*
+- [Nanami-tan Github Page](https://namazso.github.io/nanami-tan/) *Win 7 Ricing resource and index of helpful links*
+
+*the above 3 links may be a bit out-dated but can still be very useful and informative. A lot of the stuff in the Win 7 page can still be applied to Win 10*
+
+- [READ ME IF YOU HAVE NO IDEA WHAT YOU ARE DOING](https://pastebin.com/raw/mtgSWp42) *A journey through the thought process of an illiterate PC user.*
+- [FMHY Themes / Ricing](https://fmhy.net/system-tools#themes-ricing) *FMHY Themes / Ricing*
+- []() **
+
+#### **🪟 My Ricing Recommendations Windows 10**
+
+**BEFORE DOING ANYTHING DO THIS FIRST:**
+- [Create a Bootable USB **Recovery Drive** in Windows 10](https://www.tenforums.com/tutorials/4200-create-recovery-drive-windows-10-a.html) *How to Create a Bootable USB Recovery Drive in Windows 10*
+
+**NOTE:**
+**Make a habit of creating System Restore Points often when *Ricing* (Implementing the stuff in this section)**
+- [System Restore Point](https://www.tenforums.com/tutorials/4571-create-system-restore-point-windows-10-a.html) *How to Create a System Restore Point in Windows 10*
+
+**Windows Optimization:**
+- [Remove the language indicator](https://www.askvg.com/fix-input-indicator-icon-comes-back-in-taskbar-notification-area-after-restarting-windows/) *Permanently remove language indicator from the taskbar.*
+- [Fix search indexing](https://lifehacker.com/set-windows-10-to-search-all-file-contents-with-this-se-1733511735) *Start menu will search through files and file contents.*
+- [Keyboard shortcuts in Windows](https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec#WindowsVersion=Windows_10) *Keyboard shortcuts are keys or combinations of keys that provide an alternative way to do something that you’d typically do with a mouse.*
+- [Keyboard shortcuts in Firefox](https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly?redirectslug=Keyboard+shortcuts&redirectlocale=en-US) *Keyboard shortcuts - Perform common Firefox tasks quickly*
+- [Fix problems that block programs from being installed or removed](https://support.microsoft.com/en-us/topic/fix-problems-that-block-programs-from-being-installed-or-removed-cca7d1b6-65a9-3d98-426b-e9f927e1eb4d) *The Program Install and Uninstall troubleshooter helps you automatically repair issues when you're blocked from installing or removing programs. It also fixes corrupted registry keys.*
+- [Custom Windows Icons](https://www.ricing.chloechantelle.com/#:~:text=damn%20skins%20available.-,icons,-Numix%20-%20Ported%20from) *Have a look at what is posted here. I really like the "Paper" icon set.*
+- [Chris Titus Tech's Windows Utility](https://github.com/ChrisTitusTech/winutil) *Install Programs, Tweaks, Fixes, and Updates*
+- [Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows/) *The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11*
+**Some useful Registry Keys:**
+- [Add Take Ownership to Context Menu](https://github.com/Courage-1984/Add-Take-Ownership-to-Context-Menu) *How to Add Take Ownership to Context Menu in Windows 10.*
+- [Show more details in Details pane of File Explorer](https://github.com/Courage-1984/Show-more-details-in-Details-pane-of-File-Explorer) *Show more details in Details pane of File Explorer*
+- [Pin Files to Start on Windows 10](https://github.com/Courage-1984/Pin-Files-to-Start-Windows-10) *Enable the ability to Pin Files to Start on Windows 10 through the context menu.*
+- [Enable Windows Photo Viewer in Windows 10](https://github.com/Courage-1984/Enable-Windows-Photo-Viewer-Win10) *How to Enable Windows Photo Viewer in Windows 10 and possibly set as default.*
+- [Disable Windows Web Search in Start](https://github.com/Courage-1984/Disable-Windows-Web-Search-in-Start) *Disable Windows Web Search Using a Registry Key*
+- [Remove the Folders From “This PC”](https://github.com/Courage-1984/Remove-Folders-From-This-PC-Win10) *How to Remove the Folders From “This PC” on Windows 10*
+- []() **
+**Windows Customization:**
+- [Microsoft PowerToys](https://github.com/microsoft/PowerToys) *Windows system utilities to maximize productivity*
+- [7+ Taskbar Tweaker](https://tweaker.ramensoftware.com/) *Customize the Windows taskbar with dozens of exclusive options. Adapt the taskbar to your workflow, not the other way around.*
+- [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) *This project aims to enhance the working environment on Windows*
+- [OldNewExplorer](https://msfn.org/board/topic/170375-oldnewexplorer-119/) *OldNewExplorer is the Windows 10 (and Windows 8.1, and 8) shell extension / tweaker which can undo "improvements" to file browsing made in newer Windows version.*
+- [StartIsBack](https://startisback.com/) *Real start menu for Windows 8 and Windows 10. Start menu is back and it's better than ever. Get the most useful shell enhancement for Windows 10 now!*
+- [Mactype](https://www.dropbox.com/s/nyaxc8h1hb6lcx2/MacType.zip?e=2) *Better font rendering, includes version for W7 and W10 (also works on 8.1). Follow the instructions to install.*
+- [AutoHotkey](https://www.autohotkey.com/) *The ultimate automation scripting language for Windows.. AutoHotKey is a fantastic hotkey tool, and for ricing it can do a few very helpful jobs like making hotkeys to certain programs, tiling, removing taskbar/titlebar icons and hiding titlebars.*
+- [My custom AHK](https://github.com/Courage-1984/Custom-AutoHotkeys) *Some useful custom AHK. Read the Readme.*
+- [QTTabBar](http://qttabbar.wikidot.com/) *Adds a lot more functionality to Explorer, including tabs, hotkeys and alternative navigation panes.*
+- [Icaros](https://github.com/Xanashi/Icaros) *Icaros is a collection of lightweight, high quality, Windows Shell Extensions. Windows Explorer- thumbnails and properties for basically any file type.*
+- [MPC-BE](https://sourceforge.net/projects/mpcbe/) *Media Player Classic - BE is a free and open source audio and video player for Windows.*
+- [foobar2000](https://www.foobar2000.org/) *foobar2000 is an advanced freeware audio player for the Windows platform.*
+- [ClamAV](https://github.com/Cisco-Talos/clamav) *ClamAV® is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.*
+- [Windows Terminal](https://learn.microsoft.com/en-us/windows/terminal/) *What is Windows Terminal?*
+- [Mac Mouse Pointer Guide](https://www.intowindows.com/download-mac-mouse-cursor-for-windows-10/) *How To Get Mac Mouse Pointer (Cursor) In Windows 10*
+- [macOS Sierra Retina cursors](https://www.deviantart.com/in-dolly/art/macOS-Sierra-Retina-cursors-650823654) *macOS Sierra Retina cursors*
+- [ElCapitan cursors](https://www.deviantart.com/in-dolly/art/Updated-ElCapitan-cursors-593804414) *Updated ElCapitan cursors*
+*ElCapitan cursors is smaller but the macOS Sierra Retina cursors is much cleaner!*
+- [Dracula](https://draculatheme.com/) *One theme. All platforms.*
+- [Discover Customization on DeviantArt](https://www.deviantart.com/topic/customization) *Download custom skins and assets to personalize your day-to-day tools and applications.*
+- []() **
+**Online Url and File Analyses:**
+- [VirusTotal](https://www.virustotal.com/) *Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches*
+- [Hybrid Analysis](https://www.hybrid-analysis.com/) *Free Automated Malware Analysis Service. This is a free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology.*
+- [Cloudflare Radar URL Scanner](https://radar.cloudflare.com/scan) *Understand the security, performance, technology, and network details of a URL with a publicly shareable report.*
+- [Jotti's malware scan](https://virusscan.jotti.org/) *Jotti's malware scan is a free service that lets you scan suspicious files with several anti-virus programs.*
+- []() **
+**Windows Privacy:**
+- [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) *Free antispy tool for Windows 10 and 11*
+- [O&O AppBuster](https://www.oo-software.com/en/ooappbuster) *Bust Apps you do not want!*
+- [WPD](https://wpd.app/) *WPD is the most convenient way to configure various privacy settings in Windows*
+- [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) *Block spying and tracking on Windows*
+- [privatezilla](https://github.com/builtbybel/privatezilla#download) *Performs a privacy & security check of Windows 10*
+- [optimizer](https://github.com/hellzerg/optimizer) *The finest Windows Optimizer*
+- [Privacy is sexy](https://privacy.sexy/) *Enforce privacy & security on Windows, macOS and Linux*
+- [SophiApp](https://github.com/Sophia-Community/SophiApp) *The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11*
+- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) *Remove large amounts of unwanted applications*
+- []() **
+**arkenfox:**
+- [arkenfox Github](https://github.com/arkenfox) *arkenfox Github user profile*
+- [arkenfox Home](https://github.com/arkenfox/user.js/wiki) *arkenfox user-js wiki*
+- [arkenfox Extensions](https://github.com/arkenfox/user.js/wiki/4.1-Extensions) *arkenfox Extensions*
+
+#### **🗂️ Misc**
 - [System Tools, Hardware Tools, Windows ISOs, Customization](https://fmhy.net/system-tools) *System Tools, Hardware Tools, Windows ISOs, Customization*
 - [Eylenburg's Tech Website](https://eylenburg.github.io/) *Detailed Comparisons of OS's, Browsers, Environments and Services*
-- [Ricing Guide](https://www.ricing.chloechantelle.com/) *Making visual improvements and customization to your desktop and/or phone that can simplify your desktop environment but (generally) are completely pointless.*
 - [Open-Shell](https://open-shell.github.io/Open-Shell-Menu/) *A collection of utilities bringing back classic features to Windows.*
 - [KMS_VL_ALL_AIO](https://raw.githubusercontent.com/abbodi1406/KMS_VL_ALL_AIO/master/KMS_VL_ALL_AIO.cmd) *Right click this link and save as KMS_VL_ALL_AIO.cmd. The BEST windows and office activator.*
 - [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) *The Sysinternals Troubleshooting Utilities have been rolled up into a single Suite of tools*
 - [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) *Process Explorer shows you information about which handles and DLLs processes have opened or loaded*
 - [QuickMon](https://github.com/RudolfHenning/QuickMon) *QuickMon is a simple monitoring and alerting tool. It allows you to monitor and alert on various resources/services locally or remotely.*
-- [Microsoft PowerToys](https://github.com/microsoft/PowerToys) *Windows system utilities to maximize productivity*
-- [7+ Taskbar Tweaker](https://tweaker.ramensoftware.com/) *Customize the Windows taskbar with dozens of exclusive options. Adapt the taskbar to your workflow, not the other way around.*
-- [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) *This project aims to enhance the working environment on Windows*
 - [Winaero Tweaker](https://winaerotweaker.com/) *It is an all-in-one application that comes with dozens of options for fine-grained tuning of various Windows settings and features*
-- [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) *Free antispy tool for Windows 10 and 11*
-- [O&O AppBuster](https://www.oo-software.com/en/ooappbuster) *Bust Apps you do not want!*
 - [Blackbird](https://www.getblackbird.net/) *Windows privacy, security and performance*
-- [WPD](https://wpd.app/) *WPD is the most convenient way to configure various privacy settings in Windows*
-- [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) *Block spying and tracking on Windows*
-*tested up till this point. the following items is unordered and not tested by me*
 - [QuickBoost](https://github.com/SanGraphic/QuickBoost) *Automated Windows 10 / 11 Tweaking Utility*
-- [privatezilla](https://github.com/builtbybel/privatezilla#download) *Performs a privacy & security check of Windows 10*
 - [Pegasun System Utilities](https://pegasun.com/system-utilities) *Maximize PC performance and battery life*
-- [optimizer](https://github.com/hellzerg/optimizer) *The finest Windows Optimizer*
-- [Privacy is sexy](https://privacy.sexy/) *Enforce privacy & security on Windows, macOS and Linux*
-- [SophiApp](https://github.com/Sophia-Community/SophiApp) *The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11*
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/) *A free and open source typeface for developers*
+- [Couleur Tweak Tips](https://ctt.cx/) *Couleur Tweak Tips - a comprehensive aggregation of useful resources for enthusiasts looking to expand their toolchain of programs and adopt good practices to enhance the quality of life in daily computer use and video production.*
+- [CTT Wiki](https://github.com/couleur-tweak-tips/CTT) *Couleur Tweak Tips documentation hosted on GitHub Pages using Material for MkDocs*
+- [Couleur Tweak Tips Ongoing Projects](https://github.com/couleur-tweak-tips) *Couleur Tweak Tips Ongoing Projects*
 - []() **
 
 #### 🗃️ Windows Files
@@ -255,11 +332,6 @@ cell   | cell
 #### 📦 Windows Package Managers
 - [Ninite](https://ninite.com/) *Install or Update Multiple Apps at Once*
 - [Chocolatey](https://chocolatey.org/) *The package manager for Windows*
-
-#### 🗂️ Windows Guides
-- [How to Remove the Folders From “This PC” on Windows 10](https://www.howtogeek.com/222057/how-to-remove-the-folders-from-this-pc-on-windows-10/)
-- [How to Remove "3D Objects" From This PC on Windows 10](https://www.howtogeek.com/331361/how-to-remove-the-3d-objects-folder-from-this-pc-on-windows-10/)
-- [How to Disable Windows Defender Antivirus in Windows 10 & 11](https://www.majorgeeks.com/content/page/remove_windows_defender_from_windows_10_and_windows_8_1.html)
 
 ***
 ### ->  ⚙️ PC Software <-
@@ -328,6 +400,7 @@ cell   | cell
 - [ExifTool](https://exiftool.org/) *Read, Write and Edit Meta Information*
 - [Oxipng](https://github.com/shssoichiro/oxipng) *Multithreaded PNG optimizer, this is for losslessly optimizing png files and optionally removing tags from them*
 - [gallery-dl](https://github.com/mikf/gallery-dl) *Command-line program to download image galleries and collections from several image hosting sites*
+- [gallery-dl man page](https://man.uex.se/1/gallery-dl) *gallery-dl - download image-galleries and -collections - man page help*
 - [croc](https://schollz.com/software/croc/) *secure and easy data transfer, p2p e2ee, but must trust other enough to see your ip to use*
 - [TeamViewer Remote](https://www.teamviewer.com/en-mea/products/remote/) *Secure remote access*
 - [MW Metadata](https://github.com/mattwright324/youtube-metadata) *A quick way to gather all the metadata about a video, playlist, or channel from the YouTube API*
@@ -347,6 +420,9 @@ cell   | cell
 - [Git](https://git-scm.com/downloads) *Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.*
 - [XAMPP](https://www.apachefriends.org/download.html) *XAMPP is a free and open-source cross-platform web server solution stack package developed by Apache Friends, consisting mainly of the Apache HTTP Server, MariaDB database, and interpreters for scripts written in the PHP and Perl programming languages.*
 - [Insomnia](https://insomnia.rest/download) *Start building, designing, testing better APIs through spec-first development driven by an APIOps CI/CD pipelines.*
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) *DaVinci Resolve is a color grading, color correction, visual effects, and audio post-production video editing application.*
+- [OpenShot](https://www.openshot.org/) *OpenShot Video Editor is a free and open-source video editor.*
+- [speedtest-cli](https://github.com/sivel/speedtest-cli) *Command line interface for testing internet bandwidth using speedtest.net*
 - []() **
 
 #### 🧩 Extensions Top Picks
@@ -385,6 +461,19 @@ cell   | cell
 - [Export Cookies](https://github.com/rotemdan/ExportCookies) *WebExtension to export cookies to a Netscape format cookies.txt file.*
 - [Magnifying Glass](https://addons.mozilla.org/en-US/firefox/addon/magnifying-glass/) *Convert your mouse cursor to a high-quality magnifying glass.*
 - [Open in Browser](https://addons.mozilla.org/en-US/firefox/addon/open-in-browser/) *Offers the possibility to display documents in the browser window.*
+- [Behind The Overlay](https://github.com/NicolaeNMV/BehindTheOverlay) *One button to close any overlay on any website*
+- [Fake Filler](https://fakefiller.com/) *Fake Filler is the quickest way to fill all inputs on a page with fake data.*
+- [ffckoverlays](https://github.com/mashedkeyboard/ffckoverlays) *Right-click any overlay to remove it.*
+- [Link to Text Fragment](https://github.com/GoogleChromeLabs/link-to-text-fragment) *Browser extension that allows for linking to arbitrary text fragments.*
+- [PopUpOFF](https://popupoff.org/) *Popup and overlay blocker*
+- [Smart Referer](https://gitlab.com/smart-referrer/smart-referer) *Intelligent referer handling for increased browsing privacy*
+- [Canvas Fingerprint Defender](https://mybrowseraddon.com/canvas-defender.html) *Defending against canvas fingerprinting by reporting a fake value.*
+- [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker/) *A Firefox extension to protect from being fingerprinted.*
+- [Multi-Account Containers](https://github.com/mozilla/multi-account-containers) *Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.*
+- [Dracula Dark theme](https://addons.mozilla.org/en-US/firefox/addon/dracula-dark-theme/) *Dracula Dark theme*
+- [Dracula Dark Theme](https://addons.mozilla.org/en-US/firefox/addon/dracula-dark-colorscheme/) *Official Dracula theme for firefox.*
+- [Dracula Dark Theme 2](https://addons.mozilla.org/en-US/firefox/addon/dracula-dark-theme/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) *Dark theme from color.firefox.com*
+- [Google Unlocked](https://github.com/Ibit-to/google-unlocked) *Google Unlocked browser extension uncensor google search results*
 - []() **
 
 #### 📜 Scripts
@@ -409,6 +498,12 @@ cell   | cell
 - [Divolt Desktop](https://github.com/fmhy/divolt-desktop) *Revolt Desktop App, rebuilt for Divolt.*
 - [ytdl-sub](https://github.com/jmbannon/ytdl-sub) *Automate downloading and metadata generation with YoutubeDL*
 - [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) *Exports Discord chat logs to a file*
+- [ImHex](https://github.com/WerWolv/ImHex) *A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.*
+- [ImHex Web](https://web.imhex.werwolv.net/) *Free Online Hex Editor for Reverse Engineers*
+- [Obsidian](https://obsidian.md/) *Obsidian is the private and flexible writing app that adapts to the way you think.*
+- [MASSCAN](https://github.com/robertdavidgraham/masscan) *MASSCAN: Mass IP port scanner - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.*
+- [RedditToMarkdown](https://github.com/farnots/RedditToMarkdown) *Export Reddit Post and comments to a markdown format*
+- [OurResearch](https://ourresearch.org/) *We make tools that make research more open.*
 - []() **
 
 #### 📓 Software Guides
@@ -416,8 +511,6 @@ cell   | cell
 - [Babbies First Linux](https://wiki.installgentoo.com/index.php/Babbies_First_Linux) *For beginners I recommend Linux Mint, Ubuntu, or Pop!_OS.*
 - [Friendly GNU/Linux Thread/Website](https://fglt.nl/) *Friendly GNU/Linux guides and resources.*
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) *Master the command line, in one page*
-- [ImHex](https://github.com/WerWolv/ImHex) *A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.*
-- [ImHex Web](https://web.imhex.werwolv.net/) *Free Online Hex Editor for Reverse Engineers*
 - []() **
 
 ***
@@ -443,6 +536,7 @@ cell   | cell
 **Misc:**
 - [send-anywhere](https://send-anywhere.com/) *Anyone can send and receive files simply and securely with Send Anywhere.*
 - [Buzzheavier](https://buzzheavier.com/) *Simple, Fast, Anonymous file sharing for everyone. - File host, no upload limit, files last forever.*
+- [FileDitch](https://fileditch.com/) *Free file upload! Max upload size is 15 G*
 - [chatGPT](https://chat.openai.com/) *leading AI / LLM | Use for almost anything - chat, coding, advice, ideas, etc. etc.*
 - [Terms of Service; Didn't Read](https://tosdr.org/) *“Terms of Service; Didn't Read” (short: ToS;DR) is a project started in June 2012 to help fix the “biggest lie on the web”: almost no one really reads the terms of service we agree to all the time.*
 - [World Ping Test](https://www.meter.net/tools/world-ping-test/) *World Ping Test - global ping test*
@@ -462,6 +556,9 @@ cell   | cell
 - [Random Subreddits Generator List](https://www.coolgenerator.com/random-subreddits-generator) *Generate a list of random Subreddits*
 - [Visualping](https://visualping.io/) *Website monitoring, change detection, and alerts - We monitor website changes ...so you don’t have to!*
 - [iknowwhatyoudownload](https://iknowwhatyoudownload.com/) *Torrent downloads and distributions for Your IP (or others...).*
+- [Python Discord's pastebin](https://paste.pythondiscord.com/) *share code with others*
+- [Audio Editor Online](https://editor.audio/) *Audio Editor Online*
+- [Download GitHub directory](https://download-directory.github.io/) *This tool will handle the download of all the files in a directory, in a single click, after you entered your token.*
 - []() **
 
 #### 📁 File Converters
@@ -679,6 +776,7 @@ Cell   | Cell
 - [FFmpeg](https://ffmpeg.org/) *A complete, cross-platform solution to record, convert and stream audio and video.*
 - [aria2c](https://aria2.github.io/) *aria2c is a lightweight multi-protocol & multi-source command-line download utility.*
 - [gallery-dl](https://github.com/mikf/gallery-dl) *Command-line program to download image galleries and collections from several image hosting sites.*
+- [gallery-dl man page](https://man.uex.se/1/gallery-dl) *gallery-dl - download image-galleries and -collections - man page help*
 - [Wget](https://www.gnu.org/software/wget/) *A command-line utility for retrieving files using HTTP, HTTPS and FTP protocols.*
 - [You-Get](https://you-get.org/) *You-Get is a tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it.*
 - [cobalt](https://github.com/wukko/cobalt) *save what you love - a media downloader that doesn't piss you off. it's fast, friendly, and doesn't have any bullshit that modern web is filled with: no ads, trackers, or analytics.*
@@ -804,6 +902,7 @@ Basic Tidal subscription required - 'pro' gui
 - [MH Wiki](https://musichoarders.xyz/) *Welcome to the Music Hoarders Wiki, created to support the daily conversations and activities of the hoarders.*
 - [COV](https://covers.musichoarders.xyz/) *Cover Search Engine*
 - [EAC for FLAC ripping](https://captainrookie.com/how-to-setup-exact-audio-copy-for-flac-ripping/) *How to setup Exact Audio Copy for FLAC ripping*
+- [cambia](https://logs.musichoarders.xyz/) *a tool for assessing compact disc rip logs.*
 - []() **
 
 #### 📀 Orpheus / RED / What-CD "*Interview Prep*"
@@ -914,7 +1013,7 @@ Cell   | Cell   | Cell
 **Awesome source for cover art:**
 [COV](https://covers.musichoarders.xyz/) *Cover Search Engine*
 **Important Plex Articles:**
-[Metadata Agents](https://support.plex.tv/articles/200241558-agents/#:~:text=Music%20Agents,class%20AllMusic%20and%20MusicBrainz%20data.)
+[Metadata Agents](https://support.plex.tv/articles/200241558-agents/#:~:text=Music%20Agents,class%20AllMusic%20and%20MusicBrainz%20data)
 [Adding Music Media From Folders](https://support.plex.tv/articles/200265296-adding-music-media-from-folders/)
 [Adding Local Artist and Music Videos](https://support.plex.tv/articles/205568377-adding-local-artist-and-music-videos/)
 [Correcting Your Music Content Matches](https://support.plex.tv/articles/correcting-your-music-content-matches/)
@@ -954,6 +1053,50 @@ Cell   | Cell   | Cell
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/) *A free and open source typeface for developers*
 - []()
 
+#### 🪣 VS Code Extensions
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) *IntelliSense (Pylance), Linting, Debugging (Python Debugger), code formatting, refactoring, unit tests, and more.*
+- [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) *A performant, feature-rich language server for Python in VS Code*
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) *Launch a development local Server with live reload feature for static & dynamic pages*
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) *Code formatter using prettier*
+- [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) *Base language support for C#*
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) *Material Design Icons for Visual Studio Code*
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) *Real-time collaborative development from the comfort of your favorite tools.*
+- [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) *Code snippets for JavaScript in ES6 syntax*
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) *Visual Studio Code plugin that autocompletes filenames*
+- [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) *Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.*
+- [.NET Install Tool](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime) *This extension installs and manages different versions of the .NET SDK and Runtime.*
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) *Spelling checker for source code*
+- [Python Debugger](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy) *Python Debugger extension using `debugpy`.*
+- [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) *Makes indentation easier to read*
+- [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) *Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.*
+- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) *Highlight CSV and TSV files, Run SQL-like queries*
+- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) *Improve highlighting of errors, warnings and other language diagnostics.*
+- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) *Mark lines and jump to them*
+- [HTML Boilerplate](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate) *A basic HTML5 boilerplate snippet generator.*
+- [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) *Subtly change the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which.*
+- [PHP](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode) *All-in-One PHP support - IntelliSense, Debug, Formatter, Code Lenses, Code Fixes, Linting, Refactoring, PHPUnit Tests, Web Server, and more.*
+- [Composer](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.composer-php-vscode) *All-in-One composer integration, quick actions, commands, automatic installation, tasks, code lenses, diagnostics, and composer.json IntelliSense.*
+- [PHP Profiler](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.profiler-php-vscode) *Support for PHP (Xdebug) profiling files and inspecting them.*
+- [json](https://marketplace.visualstudio.com/items?itemName=ZainChen.json) *Json for Visual Studio Code*
+- [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) *Highlights matching closing and opening tags*
+- [Prettify JSON](https://marketplace.visualstudio.com/items?itemName=mohsen1.prettify-json) *Visual Studio Code Prettify JSON Extension*
+- [SynthWave '84](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode) *A Synthwave-inspired colour theme to satisfy your neon dreams*
+- [IntelliPHP - AI Autocomplete for PHPPreview](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.intelli-php-vscode) *AI-assisted development for PHP.*
+- [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) *Automating the process of writing meaningful log messages.*
+- [Andromeda](https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda) *Dark theme with a taste of the universe*
+- [Power Mode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode) *Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.*
+- [colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) *A vscode extension to help visualize css colors in files.*
+- [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) *Custom CSS and JS for Visual Studio Code*
+- [CodeGPT: write and improve code using AI](https://marketplace.visualstudio.com/items?itemName=timkmecl.codegpt3) *Use GPT3 or ChatGPT right inside the IDE to enhance and automate your coding with AI-powered assistance*
+- [Error Gutters](https://marketplace.visualstudio.com/items?itemName=IgorSbitnev.error-gutters) *Show error gutters to the right from line numbers*
+- [Monokai Charcoal high contrast](https://marketplace.visualstudio.com/items?itemName=74th.monokai-charcoal-high-contrast) *monokai Charcoal with High Contrast frame*
+- [Colorful Comments](https://marketplace.visualstudio.com/items?itemName=ParthR2031.colorful-comments) *Improve and Enhance your code and make it attractive by adding Colorful Comments*
+- [Minimalist Product Icon Theme](https://marketplace.visualstudio.com/items?itemName=ElAnandKumar.el-vsc-product-icon-theme) *This is a minimalist customized product icon theme*
+- [Sweet vscode Icons](https://marketplace.visualstudio.com/items?itemName=EliverLara.sweet-vscode-icons) *A colorful icon set for vscode*
+- [Warm Up - Typing test](https://marketplace.visualstudio.com/items?itemName=Jeusto.warm-up-typing-test) *Improve your typing speed by practicing right inside your code editor. Practice with simple words or code snippets.*
+- [Tabs color](https://marketplace.visualstudio.com/items?itemName=mondersky.tabscolor) *Color any tab by right click, based on file type or based on direcory*
+- []() **
+
 #### -> 🚈 Public APIs <-
 - [A Collaborative List Of 1400+ Public APIs For Developers](https://publicapis.dev/)
 - [API List: A public list of free APIs for programmers](https://apilist.fun/)
@@ -962,8 +1105,6 @@ Cell   | Cell   | Cell
 #### -> 😎 Cool Stuff <-
 - [90s Cursor Effects](https://github.com/tholman/cursor-effects) *Old-school cursor effects for your browser built with modern JavaScript*
 - []() **
-
-
 
 ***
 ### -> 🌟 Interesting Stuff <-
@@ -985,6 +1126,12 @@ Cell   | Cell   | Cell
 - [Behind The Screens](https://behind-the-screens.tv/) *Behind The Screens shows real source code appearing in films and television and goes deeper into some of that source code to show how it works and where it came from.*
 - [Last.fm Collage Generator](https://tapmusic.net/) *Use our generator to create astonishing album and artist collages based on your Last.fm charts!*
 - [Open Source Heroes](https://opensource-heroes.com/) *Discover the top-rated open source developers and organizations on Open Source Heroes, the ultimate platform for showcasing your contributions and explore trends of your favorite languages.*
+**CPU Black Hole Raytracer:**
+- [Python Black Hole Raytracer](https://github.com/rantonels/starless) *Starless is a CPU black hole raytracer in numpy suitable for both informative diagrams and decent wallpaper material.*
+- [Black Hole & Raytracing](https://rantonels.github.io/starless/) *About the Black Hole & Raytracing*
+- [Real-time Black Hole](http://spiro.fisica.unipd.it/~antonell/schwarzschild/) *A real-time simulation of the visual appearance of a Schwarzschild Black Hole.*
+- [Therabbithole-wiki](https://therabbithole.wiki/archive/) *Therabbithole-wiki - An Exhibition of literary curiosities*
+- [LIMINAL ARCHIVES](http://liminal-archives.wikidot.com/) *LIMINAL ARCHIVES - Exploring spaces which shouldn't exist*
 - []() **
 
 #### -> 🧑 Interesting People with Useful Stuff <-
@@ -997,6 +1144,7 @@ Cell   | Cell   | Cell
 - [Edan Kwan](https://edankwan.com/) *Creative Technologist*
 - [Christopher Cherupil](https://cherupil.com/) *Creative Developer*
 - [*unknown*](https://eternallybored.org/) *check the "What's my IP?"  or "Random stuff" section*
+- [Chris Titus](https://christitus.com/) *Chris Titus Tech | Tech Content Creator*
 - []() **
 
 #### -> 📖 Interesting Reads (possibly *Important*) <-
@@ -1030,6 +1178,7 @@ Cell   | Cell   | Cell
 - [Aesthetics Wiki | Aesthetics+BreezeWiki](https://breezewiki.com/aesthetics/wiki/Aesthetics_Wiki)
 - [Rentry Text Colors](https://rentry.org/rentry-text-colors)
 - [Lostwave](https://en.m.wikipedia.org/wiki/Lostwave)
+- [Signalnoise :: The Art of James White](https://signalnoise.com/)
 - []()
 
 ***
