@@ -19,7 +19,6 @@ Basically just a copy-paste of my rentry page: Pixelated Pathways at: https://re
 Last Updated:  January 30, 2024
 **VISIT the [MIRROR](https://courage-1984.github.io/pixelated-pathways/) ~ it's prettier!**
 **OR [MIRROR 2](https://pixelated-pathways.neocities.org/)**
-**OR [MIRROR 3](https://pixelated-pathways.static.domains/)**
 
 **ALSO: View my Github Repos for some useful and handy stuff: [https://github.com/Courage-1984](https://github.com/Courage-1984)**
 
@@ -33,7 +32,7 @@ Last Updated:  January 30, 2024
 ### ->  💯 Purpose <-
 
 !!! note
-    I would say that for me, the purpose of this page is to share information and links and to also act as a point of quick reference if you need something. Everything (well most) of what is included on this page I have used and or are using, so I would say that it is somewhat curated by experience. 
+    I would say that for me, the purpose of this page is to share information and links and to also act as a point of quick reference if you need something. Everything (well most) of what is included on this page I have used and or are using, so I would say that it is somewhat curated by experience.  
 !!! note
 	The info/links on this page is semi organized (what's included and what I want to still implement is very broad so this becomes a bit difficult) but I would suggest either Use the "Table of Contents" to see and quickly navigate to what you want or take some time and explore the entire page! (You never know you might end up learning something new or discover something useful!)
 ***
