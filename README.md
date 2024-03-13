@@ -14,9 +14,10 @@ Basically just a copy-paste of my rentry page: Pixelated Pathways at: https://re
 !!! note
     NOTE: Although this page mostly consists of unordered style lists, there had been thought and effort put into them so you can say they are somewhat curated, so work your way through from start > finish.
 
+> Unique Links: 1302
 > Created by *`Dietz`*
 > Message me on Discord @ %violet% dietz_r %%
-Last Updated:  March 12, 2024
+Last Updated:  March 13, 2024
 **VISIT the [MIRROR](https://courage-1984.github.io/pixelated-pathways/) ~ it's prettier!**
 **OR [MIRROR 2](https://pixelated-pathways.neocities.org/)**
 
@@ -69,6 +70,7 @@ Last Updated:  March 12, 2024
 - [severityc](https://github.com/severityc?tab=repositories) *Discord Tools*
 - [idfp](https://github.com/idfp?tab=repositories) *Bounty hunter, Red-Team Enthusiast. Let me cook 👨‍🍳.*
 - [TebbaaX](https://github.com/TebbaaX?tab=repositories) *Interesting misc*
+- [RWeick](https://github.com/RWeick?tab=repositories) *Engineering hobbyist finding ways to intuit and preserve obsolete videogame hardware. SMD soldering aficionado.*
 - []() **
 
 ***
@@ -624,6 +626,20 @@ cell   | cell
 - [GeoSpy](https://geospy.web.app/) *Take a picture or select an existing one. GeoSpy will try to locate where it was taken.*
 - [CyberChef](https://gchq.github.io/CyberChef/) *web text editor and forensics tools*
 - []() **
+- [Riseup Pad](https://pad.riseup.net/) *free online document collaboration*
+- [A better zip bomb](https://www.bamsoftware.com/hacks/zipbomb/) *actually useful zip bomb*
+- [BrowserBench](https://browserbench.org/) *Browser Benchmarks - web browser benchmark*
+- [LCD monitor test images](http://www.lagom.nl/lcd-test/) *awesome test pages for calibrating your lcd*
+- [Internet Speed Test](https://speed.cloudflare.com/) *Measure Network Performance | Cloudflare - high bandwidth internet speed test*
+- [PageSpeed Insights](https://pagespeed.web.dev/) *benchmark a website's for speed, accessibility, and more*
+- [Cloudflare Radar](https://radar.cloudflare.com/) *global internet analytics*
+- [OONI Probe Web](https://probe-web.ooni.org/#/run/) *check your network for censorship*
+- [Ray Optics Simulation](https://phydemo.app/ray-optics/simulator/) *in-browser 2d optics simulation*
+- [Fractal Lab](https://hirnsohle.de/test/fractalLab/) *Interactive WebGL Fractal Explorer - in-browser 2d and 3d fractal rendering*
+- [BeepBox](https://www.beepbox.co/) *open source in-browser simple chiptune daw*
+- [myNoise ®](https://mynoise.net/noiseMachines.php) *Background Noises • Ambient Sounds • Relaxing Music*
+- [Virtual x86 (debug)](https://copy.sh/v86/debug.html) *in-browser x86 virtual machine*
+- []() **
 
 #### 🔑 Check Password/Email Leaks
 - [Have I Been Pwned](https://haveibeenpwned.com/) *Check if your email has been compromised in a data breach*
@@ -996,6 +1012,7 @@ Basic Tidal subscription required - 'pro' gui
 - [Sparked Paste](https://paste.sparked.host/) *Paste Service*
 - [snowbin](https://paste.fmhy.net/) *Delightfully crafted pastebin with <3.*
 - [pasteheaven](https://pasteheaven.com/) *#1 paste tool*
+- [Copy Paste Dump](https://c.r74n.com/) *copy paste dump for various unicode thingies*
 - []() **
 
 ***
@@ -1209,6 +1226,23 @@ Cell   | Cell   | Cell
 
 #### -> 😎 Cool Stuff <-
 - [90s Cursor Effects](https://github.com/tholman/cursor-effects) *Old-school cursor effects for your browser built with modern JavaScript*
+- [SS64 Command line reference](https://ss64.com/) *high quality command line reference*
+- [UX Design Roadmap](https://roadmap.sh/ux-design) *Step by Step guide to learn UX Design in 2024*
+- [Developer Roadmaps](https://roadmap.sh/roadmaps) *Developer Roadmaps*
+- []() **
+
+#### -> 🖌️ Design Stuff <-
+- [Shots](https://shots.so/) *Create Amazing Mockups*
+- [AnimateCode](https://www.animate-code.com/) *Beautiful code animations*
+- [OKLCH Color Picker & Converter](https://oklch.com/) *OKLCH Color Picker & Converter*
+- []() **
+
+#### -> 🌀 Icons <-
+- [Simple Icons](https://simpleicons.org/) *Simple Icons*
+- [BrandEPS](https://brandeps.com/) *Download brand vector logos and icons*
+- [seeklogo](https://seeklogo.com/?ref=seeklogo.net) *Vector Logos, PNG Images, Templates Free Download*
+- [Icon Ninja](https://www.iconninja.com/) *33350 vector icons and 700080 png icons for free download*
+- [iconfinder](https://www.iconfinder.com/) *8,300,000+ free and premium vector icons, illustrations and 3D illustrations*
 - []() **
 
 ***
@@ -1241,6 +1275,9 @@ Cell   | Cell   | Cell
 - [The Phrontistery](https://phrontistery.info/) *Obscure Words and Vocabulary Resources*
 - [The XY Problem](https://xyproblem.info/) *The XY Problem*
 - [MajorGeeks](https://www.majorgeeks.com/) *MajorGeeks*
+- [Welcome to Gentoo is Rice](https://funroll-loops.probablymalware.lol/Gentoo-is-Rice.html) *Welcome to Gentoo is Rice, the Volume goes to 11 here.*
+- [noclip](https://noclip.website/) *noclip around the map files from various video games*
+- [Images | Webb](https://webbtelescope.org/images) *download insanely high quality space images from the james webb telescope*
 - []() **
 
 #### -> 🧑 Interesting People with Useful Stuff <-
@@ -1254,6 +1291,8 @@ Cell   | Cell   | Cell
 - [Christopher Cherupil](https://cherupil.com/) *Creative Developer*
 - [*unknown*](https://eternallybored.org/) *check the "What's my IP?"  or "Random stuff" section*
 - [Chris Titus](https://christitus.com/) *Chris Titus Tech | Tech Content Creator*
+- [Mr.doob](https://mrdoob.com/) *Multiuser Sketchpad - cool ass web projects*
+- [Infradragon](https://infradragon.com/) *Infradragon*
 - []() **
 
 #### -> 📖 Interesting Reads (possibly *Important*) <-
@@ -1290,7 +1329,7 @@ Cell   | Cell   | Cell
 - [Signalnoise :: The Art of James White](https://signalnoise.com/)
 - [WebGL Fluid Simulation - Play with fluids in your browser (works even on mobile)](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) - [Github](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
 - [jwz - cool ass blog and more](https://www.jwz.org/)
-- []()
+- [BJAODN](https://bjaodn.org/wiki/Main_Page)
 
 ***
 ### -> 🇷 Subreddits <-
