@@ -16,7 +16,7 @@ Basically just a copy-paste of my rentry page: Pixelated Pathways at: https://re
 
 > Created by *`Dietz`*
 > Message me on Discord @ %violet% dietz_r %%
-Last Updated:  January 30, 2024
+Last Updated:  March 12, 2024
 **VISIT the [MIRROR](https://courage-1984.github.io/pixelated-pathways/) ~ it's prettier!**
 **OR [MIRROR 2](https://pixelated-pathways.neocities.org/)**
 
@@ -40,7 +40,7 @@ Last Updated:  January 30, 2024
 
 - [Links - sizeof(cat)](https://sizeof.cat/links/) ** - These links are provided as a convenience to assist you in the search for information since search engines are completely fucked up!**
 
-- [My Knowledge Wiki](https://wiki.nikiv.dev/) ** - This is my personal wiki where I share everything I know about this world in form of an online wiki**
+- [My Knowledge Wiki](https://wiki.nikiv.dev/) ** - This is my personal wiki where I share everything I know about this world in form of an online wiki (NOTE: NOT MINE)**
 
 - [Learn Anything](https://learn-anything.xyz/) ** - Learn Anything - I want to learn**
 
@@ -49,6 +49,27 @@ Last Updated:  January 30, 2024
 - [Warren](https://github.com/torchhound/warren) ** - Links to lose yourself in, curated from HN and other sources**
 
 - [the Curricula](https://www.thecurricula.com/) ** - the Curricula, search for something to learn**
+
+- [REASONED-ORG](https://www.reasoned.org/dir/index.html) ** - your gateway to wisdom on the web - A research directory focusing on the study of philosophy, psychology, and theology.**
+
+- [Research Rabbit](https://www.researchrabbit.ai/) ** - Reimagine Research - We’re rethinking everything:  literature search, alerts, and more**
+
+- []() ** - **
+
+***
+### -> 🌐 Link Indexes <-
+
+- [unapothecary's terminal](https://unapothecary.neocities.org/websites) *Link Directory - Welcome, Courier.*
+- [From the mind of Michael Walden](https://mw.rat.bz/index.html) *From the mind of Michael Walden*
+- []() **
+
+***
+### -> 🪣 Cool Github User's Repositories <-
+
+- [severityc](https://github.com/severityc?tab=repositories) *Discord Tools*
+- [idfp](https://github.com/idfp?tab=repositories) *Bounty hunter, Red-Team Enthusiast. Let me cook 👨‍🍳.*
+- [TebbaaX](https://github.com/TebbaaX?tab=repositories) *Interesting misc*
+- []() **
 
 ***
 ### -> 📚 Awesome Lists / Collections of Lists <-
@@ -146,11 +167,14 @@ Download Windows Install Media   | https://rentry.co/fwtdwnl
 Installing Windows for Retards   | https://rentry.co/windows_for_retards
 Optimize-Offline: Guide - Windows Debloating Tool   | https://rentry.co/mdl-optimize-guide
 Offline Imaging & Optimization Guide   | https://rentry.co/ltsc_optimize
+Lyssa's weird rentry   | https://rentry.co/thecatonthefloor
+windowsbumhole   | https://rentry.co/windowsbumhole
+VirusTotal Scan Guide   | https://rentry.co/VTGuide
 cell   | cell
 
 ***
 ### -> 🔒 Privacy / Anonymity / Security <-
-*it is paramount*
+*it is paramount!*
 - [Privacy Guides](https://www.privacyguides.org/en/) *Your Independent Privacy and Security Resource. The guide to restoring your online privacy.*
 - [Privacy Tools](https://www.privacytools.io/) *Privacy Tools: Fight Mass Surveillance with Encryption - Best Privacy Tools & Software Guide*
 - [Cover Your Tracks](https://coveryourtracks.eff.org/) *See how trackers view your browser*
@@ -168,6 +192,7 @@ cell   | cell
 - [Official Malware Removal Guide](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) *SUGGESTED READING Official Malware Removal Guide*
 - [Alternative Internet](https://github.com/redecentralize/alternative-internet) *A collection of interesting new networks and tech aiming at decentralisation (in some form).*
 - [Let's Block It!](https://letsblock.it/) *Remove low-quality content and useless nags, focus on what matters. Make the web yours again with this collection of community-owned content filters.*
+- [Redact](https://redact.dev/) *Mass Delete Messages, Posts, Likes and More from 40+ Services*
 - []() **
 
 #### -> 💬 Privacy Focused Messengers <-
@@ -217,6 +242,23 @@ cell   | cell
 - [DNSdumpster](https://dnsdumpster.com/) *dns recon and research, find and lookup dns records*
 - [Whois](https://www.whois.com/whois) *Free Whois Lookup - Whois IP Search & Whois Domain Lookup*
 - [DomainTools](https://whois.domaintools.com/) *Whois Lookup, Domain Availability & IP Search*
+- [OSINT Dojo](https://www.osintdojo.com/resources/) *We are a project that aims to guide those new to Open Source Intelligence (OSINT) through the first steps of their journey.*
+- [Ph055a's OSINT Collection](https://github.com/Ph055a/OSINT_Collection) *Maintained collection of OSINT related resources. (All Free & Actionable).*
+- [OSINT_Articles](https://github.com/Ph055a/OSINT_Articles) *Collection of OSINT articles to get you started in understanding OSINT techniques.*
+- [OSINT Framework](https://osintframework.com/) *OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources.*
+- [AsINT_Collection](https://start.me/p/b5Aow7/asint_collection) *Huge Collection of Categorized sections of OSINT resources.*
+- [Bellingcat's Online Investigation Toolkit](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=930747607) *This toolkit includes satellite and mapping services, tools for verifying photos and videos, websites to archive web pages, and much more.*
+- [OSINT Industries](https://osint.industries/) *OSINT over 200 websites*
+- [Analyst Research Tools](https://analystresearchtools.com/) *Analyst Research Tools*
+- [Site24x7](https://www.site24x7.com/tools/) *Free Tools for Network, DevOps and Site Reliability Engineers(SRE)*
+- []() **
+
+#### 🌐 Find & Analyze IP Information Easily
+- [IP Logger URL Shortener](https://iplogger.org/) *Log and Track IP addresses*
+- [Free online network tools](https://centralops.net/co/) *traceroute, nslookup, dig, whois lookup, ping, etc.*
+- [Grabify](https://grabify.link/) *IP Logger & URL Shortener*
+- [IP Address Lookup](https://www.whatismyip.com/ip-address-lookup/) *IP Location Lookup For Any IP Address*
+- [Nmap Online Scanner]() *Highly customizable scanning of network hosts*
 - []() **
 
 ***
@@ -254,6 +296,9 @@ cell   | cell
 - [Custom Windows Icons](https://www.ricing.chloechantelle.com/#:~:text=damn%20skins%20available.-,icons,-Numix%20-%20Ported%20from) *Have a look at what is posted here. I really like the "Paper" icon set.*
 - [Chris Titus Tech's Windows Utility](https://github.com/ChrisTitusTech/winutil) *Install Programs, Tweaks, Fixes, and Updates*
 - [Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows/) *The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11*
+- [WinSetView](https://github.com/LesFerch/WinSetView) *Globally Set Explorer Folder Views*
+- []() **
+
 **Some useful Registry Keys:**
 - [Add Take Ownership to Context Menu](https://github.com/Courage-1984/Add-Take-Ownership-to-Context-Menu) *How to Add Take Ownership to Context Menu in Windows 10.*
 - [Show more details in Details pane of File Explorer](https://github.com/Courage-1984/Show-more-details-in-Details-pane-of-File-Explorer) *Show more details in Details pane of File Explorer*
@@ -262,6 +307,7 @@ cell   | cell
 - [Disable Windows Web Search in Start](https://github.com/Courage-1984/Disable-Windows-Web-Search-in-Start) *Disable Windows Web Search Using a Registry Key*
 - [Remove the Folders From “This PC”](https://github.com/Courage-1984/Remove-Folders-From-This-PC-Win10) *How to Remove the Folders From “This PC” on Windows 10*
 - []() **
+
 **Windows Customization:**
 - [Microsoft PowerToys](https://github.com/microsoft/PowerToys) *Windows system utilities to maximize productivity*
 - [7+ Taskbar Tweaker](https://tweaker.ramensoftware.com/) *Customize the Windows taskbar with dozens of exclusive options. Adapt the taskbar to your workflow, not the other way around.*
@@ -284,12 +330,15 @@ cell   | cell
 - [Dracula](https://draculatheme.com/) *One theme. All platforms.*
 - [Discover Customization on DeviantArt](https://www.deviantart.com/topic/customization) *Download custom skins and assets to personalize your day-to-day tools and applications.*
 - []() **
+
 **Online Url and File Analyses:**
 - [VirusTotal](https://www.virustotal.com/) *Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches*
 - [Hybrid Analysis](https://www.hybrid-analysis.com/) *Free Automated Malware Analysis Service. This is a free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology.*
 - [Cloudflare Radar URL Scanner](https://radar.cloudflare.com/scan) *Understand the security, performance, technology, and network details of a URL with a publicly shareable report.*
 - [Jotti's malware scan](https://virusscan.jotti.org/) *Jotti's malware scan is a free service that lets you scan suspicious files with several anti-virus programs.*
+- [ANY-RUN](https://any.run/) *Interactive Online Malware Sandbox*
 - []() **
+
 **Windows Privacy:**
 - [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) *Free antispy tool for Windows 10 and 11*
 - [O&O AppBuster](https://www.oo-software.com/en/ooappbuster) *Bust Apps you do not want!*
@@ -422,6 +471,7 @@ cell   | cell
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) *DaVinci Resolve is a color grading, color correction, visual effects, and audio post-production video editing application.*
 - [OpenShot](https://www.openshot.org/) *OpenShot Video Editor is a free and open-source video editor.*
 - [speedtest-cli](https://github.com/sivel/speedtest-cli) *Command line interface for testing internet bandwidth using speedtest.net*
+- [hydrus network](https://hydrusnetwork.github.io/hydrus/) *The hydrus network client is a desktop application written for Anonymous and other internet enthusiasts with large media collections. A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. [Github](https://github.com/hydrusnetwork/hydrus). Also go have a look at: [Discord-Channel-Bulk-Image-Download](https://github.com/Courage-1984/Discord-Channel-Bulk-Image-Download).*
 - []() **
 
 #### 🧩 Extensions Top Picks
@@ -430,7 +480,6 @@ cell   | cell
 - [TrackMeNot](https://www.trackmenot.io/) *periodically issues randomized search-queries to popular search engines - creates obfuscation*
 - [FastForward](https://fastforward.team/) *bypass annoying link shorteners*
 - [uBlock Origin](https://github.com/gorhill/uBlock) *An efficient content & ad blocker*
-- [Ghostery](https://www.ghostery.com/) *Ad Blocker & Privacy Browsing*
 - [DuckDuckGo](https://duckduckgo.com/app) *privacy protection for your browser*
 - [Bitwarden](https://bitwarden.com/) *password manager*
 - [ImprovedTube](https://github.com/code-charity/youtube) *enrich your video experience & enable your content selection*
@@ -448,15 +497,12 @@ cell   | cell
 - [SponsorBlock](https://sponsor.ajay.app/) *open-source crowdsourced browser extension and open API for skipping sponsor segments in YouTube videos*
 - [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web) *Translate your page in real time using Google or Yandex*
 - [Save Page WE](https://addons.mozilla.org/en-US/firefox/addon/save-page-we/) *Save a complete web page (as currently displayed) as a single HTML file that can be opened in any browser. Save a single page, multiple selected pages or a list of page URLs.*
-- [ClearURLs](https://docs.clearurls.xyz/1.26.1/) *This extension will automatically remove tracking elements from URLs to help protect your privacy when browsing through the internet.*
-- [Decentraleyes](https://decentraleyes.org/) *Protects you against tracking through "free", centralized, content delivery.*
 - [NoScript Security Suite](https://noscript.net/) *Allow potentially malicious web content to run only from sites you trust.*
 - [Reddit Random Redirect](https://addons.mozilla.org/en-US/firefox/addon/reddit-random-redirect/) *A lightweight Firefox extension that instantly transports you to a random subreddit with a single click.*
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) *A browser extension that takes you to a random site from one of the awesome curated lists. Like good ol' StumbleUpon, for developers, tech & science lovers.*
 - [FireShot](https://addons.mozilla.org/en-US/firefox/addon/fireshot/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) *Performs full page screen capture.*
 - [User Agent Switcher and Manager](https://add0n.com/useragent-switcher.html) *The "User-Agent Switcher and Manager" extension allows you to alter your browser's User-Agent string, which is used by web servers to provide content to you.*
 - [Youtube Volume Scroll](https://github.com/Araxeus/Youtube-Volume-Scroll) *Browser Extension that enable scrolling mousewheel to control volume on Youtube and Youtube Music.*
-- [Tab Preview On Hover](https://github.com/easonwong-de/Tab-Preview-On-Hover) *Adds on-hover tab preview to Firefox (requires CSS theme).*
 - [Export Cookies](https://github.com/rotemdan/ExportCookies) *WebExtension to export cookies to a Netscape format cookies.txt file.*
 - [Magnifying Glass](https://addons.mozilla.org/en-US/firefox/addon/magnifying-glass/) *Convert your mouse cursor to a high-quality magnifying glass.*
 - [Open in Browser](https://addons.mozilla.org/en-US/firefox/addon/open-in-browser/) *Offers the possibility to display documents in the browser window.*
@@ -466,13 +512,13 @@ cell   | cell
 - [Link to Text Fragment](https://github.com/GoogleChromeLabs/link-to-text-fragment) *Browser extension that allows for linking to arbitrary text fragments.*
 - [PopUpOFF](https://popupoff.org/) *Popup and overlay blocker*
 - [Smart Referer](https://gitlab.com/smart-referrer/smart-referer) *Intelligent referer handling for increased browsing privacy*
-- [Canvas Fingerprint Defender](https://mybrowseraddon.com/canvas-defender.html) *Defending against canvas fingerprinting by reporting a fake value.*
-- [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker/) *A Firefox extension to protect from being fingerprinted.*
 - [Multi-Account Containers](https://github.com/mozilla/multi-account-containers) *Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.*
 - [Dracula Dark theme](https://addons.mozilla.org/en-US/firefox/addon/dracula-dark-theme/) *Dracula Dark theme*
 - [Dracula Dark Theme](https://addons.mozilla.org/en-US/firefox/addon/dracula-dark-colorscheme/) *Official Dracula theme for firefox.*
 - [Dracula Dark Theme 2](https://addons.mozilla.org/en-US/firefox/addon/dracula-dark-theme/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) *Dark theme from color.firefox.com*
 - [Google Unlocked](https://github.com/Ibit-to/google-unlocked) *Google Unlocked browser extension uncensor google search results*
+- [Behave!](https://addons.mozilla.org/en-US/firefox/addon/behave/) *A monitoring browser extension for pages acting as bad boys*
+- [Skip Redirect](https://github.com/sblask-webextensions/webextension-skip-redirect) *Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.*
 - []() **
 
 #### 📜 Scripts
@@ -503,6 +549,11 @@ cell   | cell
 - [MASSCAN](https://github.com/robertdavidgraham/masscan) *MASSCAN: Mass IP port scanner - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.*
 - [RedditToMarkdown](https://github.com/farnots/RedditToMarkdown) *Export Reddit Post and comments to a markdown format*
 - [OurResearch](https://ourresearch.org/) *We make tools that make research more open.*
+- [Revo Uninstaller](https://www.revouninstaller.com/) *Uninstall Software, Remove programs easily*
+- [GRC | ValiDrive](https://www.grc.com/validrive.htm) *Quickly spot-check any USB mass storage drive for fraudulent deliberately missing storage.*
+- [Diarium](https://diariumapp.com/) *Cross-platform diary & journal app*
+- [Executable Masquerading](https://github.com/idfp/masquerade?tab=readme-ov-file) *Spearphishing tools, generate masqueraded pocket executable*
+- [Katana-ds (dork scanner)]() *Python Tool that gives you the ability to run Advanced Google Queries (Known as Google Dorks - Google Dorking)*
 - []() **
 
 #### 📓 Software Guides
@@ -523,6 +574,10 @@ cell   | cell
 - [Top free tools](https://itch.io/tools/free) *Top free tools*
 - [Verification Toolset](https://start.me/p/ZGAzN7/verification-toolset) *A page with al kinds of tools listed.*
 - [delightful creative tools](https://codeberg.org/ADHDefy/delightful-creative-tools) *A curated list of delightful tools for digital creatives in a variety of mediums.*
+- [600+ AI Tools](https://docs.google.com/spreadsheets/d/1v0F5cxAhj-Dy0lnd1J9rS9Y5nx_1W9q_/edit?pli=1#gid=1143930263) *Google sheet of 600+ AI Tools with categories and descriptions*
+- [MajorGeeks WebTools](https://tools.majorgeeks.com/) *MajorGeeks: Free Online Web Tools*
+- [GRC](https://www.grc.com/freepopular.htm) *Most Popular Freeware on Windows*
+- []() **
 
 #### 🔧 Most Useful
 
@@ -531,15 +586,24 @@ cell   | cell
 - [Hybrid Analysis](https://www.hybrid-analysis.com/) *Free Automated Malware Analysis Service. This is a free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology.*
 - [Cloudflare Radar URL Scanner](https://radar.cloudflare.com/scan) *Understand the security, performance, technology, and network details of a URL with a publicly shareable report.*
 - [Jotti's malware scan](https://virusscan.jotti.org/) *Jotti's malware scan is a free service that lets you scan suspicious files with several anti-virus programs.*
+- [ANY-RUN](https://any.run/) *Interactive Online Malware Sandbox*
+- []() **
+
+**File Hosts:**
+- [Buzzheavier](https://buzzheavier.com/) *Simple, Fast, Anonymous file sharing for everyone. - File host, no upload limit, files last forever.*
+- [FileDitch](https://fileditch.com/) *Free file upload! Max upload size is 15 G*
+- [Lookimg](https://lookimg.com/) *Blazing Fast Image Hosting - Upload and Share Images, Screenshots for free.*
+- [SM-MS](https://sm.ms/) *Image Upload - Simple Free Image Hosting*
+- [Pillowcase](https://pillowcase.su/) *Pillowcase is a simple to use free file hosting service. It lets you share your photos, documents, music, videos and more with others online.*
+- [pixeldrain](https://pixeldrain.com/) *Free file sharing service*
+- []() **
 
 **Misc:**
 - [send-anywhere](https://send-anywhere.com/) *Anyone can send and receive files simply and securely with Send Anywhere.*
-- [Buzzheavier](https://buzzheavier.com/) *Simple, Fast, Anonymous file sharing for everyone. - File host, no upload limit, files last forever.*
-- [FileDitch](https://fileditch.com/) *Free file upload! Max upload size is 15 G*
+- [Microsoft Activation Scripts (MAS)](https://massgrave.dev/) *safe windows piracy*
 - [chatGPT](https://chat.openai.com/) *leading AI / LLM | Use for almost anything - chat, coding, advice, ideas, etc. etc.*
 - [Terms of Service; Didn't Read](https://tosdr.org/) *“Terms of Service; Didn't Read” (short: ToS;DR) is a project started in June 2012 to help fix the “biggest lie on the web”: almost no one really reads the terms of service we agree to all the time.*
 - [World Ping Test](https://www.meter.net/tools/world-ping-test/) *World Ping Test - global ping test*
-- [Have I Been Pwned](https://haveibeenpwned.com/) *Check if your email has been compromised in a data breach*
 - [Perchance Generator](https://perchance.org/ai-chat) *AI Chat & Roleplay*
 - [DevsDash](https://devsdash.com/) *Get Better At Web Development*
 - [Online Clock](https://dayspedia.com/time/online/) *Online Clock: Full Screen - Digital/Analog*
@@ -549,7 +613,6 @@ cell   | cell
 - [Base64](https://www.base64decode.org/) *Base64 Decode and Encode*
 - [DeepL Translate](https://www.deepl.com/en/translator) *The world's most accurate translator*
 - [waifu2x](https://waifu2x.udp.jp/index.html) *Enhance photos (mainly anime styled ones).*
-~~- [TeamDrive Generator](https://td.msgsuite.workers.dev/) *This website is a free generator of shared drives.*~~
 - [GradientArt](https://gra.dient.art/) *Advanced CSS Gradient Editor*
 - [Random Subreddit Generator Single](https://perchance.org/subreddits) *Generate a single random Subreddit*
 - [Random Subreddits Generator List](https://www.coolgenerator.com/random-subreddits-generator) *Generate a list of random Subreddits*
@@ -558,6 +621,14 @@ cell   | cell
 - [Python Discord's pastebin](https://paste.pythondiscord.com/) *share code with others*
 - [Audio Editor Online](https://editor.audio/) *Audio Editor Online*
 - [Download GitHub directory](https://download-directory.github.io/) *This tool will handle the download of all the files in a directory, in a single click, after you entered your token.*
+- [GeoSpy](https://geospy.web.app/) *Take a picture or select an existing one. GeoSpy will try to locate where it was taken.*
+- [CyberChef](https://gchq.github.io/CyberChef/) *web text editor and forensics tools*
+- []() **
+
+#### 🔑 Check Password/Email Leaks
+- [Have I Been Pwned](https://haveibeenpwned.com/) *Check if your email has been compromised in a data breach*
+- [ScatteredSecrets](https://scatteredsecrets.com/) *Find Your Hacked Passwords*
+- [search.0t.rocks](https://github.com/MiyakoYakota/search.0t.rocks) *search.0t.rocks - Zero Trust Search Engine*
 - []() **
 
 #### 📁 File Converters
@@ -565,11 +636,13 @@ cell   | cell
 - [Convertio](https://convertio.co/) *Convert your files to any format*
 - [FreeConvert](https://www.freeconvert.com/) *Easily convert files from one format to another, online.*
 - [Converter365](https://www.converter365.com/) *Free online converter for 1000+ formats*
+- [File Converter](https://file-converter.io/) *Convert & compress everything in 2 clicks!*
 
 #### 📚 Article + Paywall Bypass
 - [Webpage archive](https://archive.is/) *Archive.today is a time capsule for web pages!*
 - [1ft](https://1ft.io/) *Fuck Paywalls | Freedom of Information, One Foot Away*
 - [12ft Ladder](https://12ft.io/) *Browse a cleaner web! Remove popups, banners, and ads from any website.*
+- [Archive Buttons](https://www.archivebuttons.com/) *Free Paywall Remover - All of the paywall removers in one place.*
 
 #### ✏️ text / char stuff
 - [Code Beautify](https://codebeautify.org/) *Code Beautify and Code Formatter For Developers - to Beautify, Validate, Minify, JSON, XML, JavaScript, CSS, HTML, Excel and more*
@@ -595,6 +668,8 @@ cell   | cell
 - [Startpage](https://www.startpage.com/) *Startpage is a private search engine. Protect your privacy, one search at a time.*
 - [opendirsearch](https://opendirsearch.abifog.com/) *Open Directory Search Tool*
 - [TinEye Reverse Image Search](https://tineye.com/) *Find where images appear online.*
+- [Copyseeker](https://copyseeker.net/) *The Best Free AI Powered Reverse Image Search Like No Other*
+- [WebSitesSearch](https://web-sites-search.web.app/) *Search many sites all at once.*
 - []() **
 
 #### 🔀 Generators
@@ -633,6 +708,8 @@ cell   | cell
 - [Vector Paint](https://vectorpaint.yaks.co.nz/) *SVG Editor*
 - [BIRME](https://www.birme.net/) *Bulk Image Resizing Made Easy 2.0*
 - [AI Image Upscaler](https://imgupscaler.com/) *Smart PNG / JPG Image Upscaler*
+- [ImageGlitcher](https://www.airtightinteractive.com/demos/js/imageglitcher/) *Use ImageGlitcher to glitch any image and save the result.*
+- [Rutt-Etra-Izer](https://airtightinteractive.com/demos/js/ruttetra/) *This demo emulates the Rutt-Etra video synthesizer.*
 - []() **
 
 ###### 🟣 Image Color Transfer / Color Grading
@@ -652,14 +729,29 @@ cell   | cell
 
 #### -> 🤖 AI <-
 
+##### Index
+
+- [600+ AI Tools](https://docs.google.com/spreadsheets/d/1v0F5cxAhj-Dy0lnd1J9rS9Y5nx_1W9q_/edit?pli=1#gid=1143930263) *Google sheet of 600+ AI Tools with categories and descriptions*
+
+##### LLM and Related
+
+- [chatGPT](https://chat.openai.com/) *leading AI / LLM | Use for almost anything - chat, coding, advice, ideas, etc. etc.*
+- [Groq](https://groq.com/) *Groq is on a mission to set the standard for GenAI inference speed, helping real-time AI applications come to life today.*
+- []() **
+
 ##### Prompts
 
 - [Ultimate AI Image Prompt Generator](https://promptlygenerated.com/image_prompt_generate) *Effortless Prompt Engineering for All*
 - [ALMOCO](https://almoco.ai/) *World Best Midjourney Prompts for Creative Illustrations*
 - [Prompt Library](https://promptlibrary.org/) *MIDJOURNEY PROMPT LIBRARY - Free Prompts for Midjourney*
+- [Chat GPT "DAN" (and other "Jailbreaks")](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516) *Chat GPT "DAN" (and other "Jailbreaks")*
 - []() **
 
 ##### Image & Video Generation
+
+- [AI Image Generator (free, no sign-up, unlimited)](https://perchance.org/ai-text-to-image-generator) *AI Image Generator (free, no sign-up, unlimited)*
+- [AI Video Thumbnail Generator (free, no sign-up, no limits) - Normal Image generator](https://perchance.org/ai-thumbnail-generator) *AI Video Thumbnail Generator (free, no sign-up, no limits) - Normal Image generator*
+- [Free NSFW AI Generator (free, no sign-up, no limits)](https://perchance.org/free-nsfw-ai-generator) *Free NSFW AI Generator (free, no sign-up, no limits)*
 
 - [Stable Diffusion Online](https://stablediffusionweb.com/) *Create free AI generated images - Stable Diffusion Online*
 - [NightCafe Creator](https://creator.nightcafe.studio/) *Create free AI generated images - Create Something Amazing*
@@ -670,6 +762,11 @@ cell   | cell
 - [Leonardo-ai](https://leonardo.ai/) *Create production-quality visual assets for your projects with unprecedented quality, speed, and style-consistency.*
 - [picsart](https://picsart.com/images/ai-generated-image) *Generate images with AI*
 - [Craiyon](https://www.craiyon.com/) *Free AI image generator: Create AI Art*
+- [Shakker AI](https://www.shakker.ai/) *Best Image To Image AI Generation Tool*
+- []() **
+
+##### Audio Generation
+- [Stable Audio](https://www.stableaudio.com/) *Generative AI for music & sound fx*
 - []() **
 
 #### -> 🔧 Other Lists of Online Tools <-
@@ -754,6 +851,8 @@ Cell   | Cell
 - [PiracyBank](https://piracybank.org/websites) *List of websites with detected copyright infringement*
 - [Slav Art Beginner Information](https://rentry.org/slavart)
 - [Divolt-xyz Discover](https://rentry.org/divolt)
+- [iFixit](https://www.ifixit.com/) *The Free Repair Manual*
+- []() **
 
 #### 4. Subreddits
 
@@ -779,6 +878,9 @@ Cell   | Cell
 - [Wget](https://www.gnu.org/software/wget/) *A command-line utility for retrieving files using HTTP, HTTPS and FTP protocols.*
 - [You-Get](https://you-get.org/) *You-Get is a tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it.*
 - [cobalt](https://github.com/wukko/cobalt) *save what you love - a media downloader that doesn't piss you off. it's fast, friendly, and doesn't have any bullshit that modern web is filled with: no ads, trackers, or analytics.*
+- [hydrus network](https://hydrusnetwork.github.io/hydrus/) *The hydrus network client is a desktop application written for Anonymous and other internet enthusiasts with large media collections. A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. [Github](https://github.com/hydrusnetwork/hydrus). Also go have a look at: [Discord-Channel-Bulk-Image-Download](https://github.com/Courage-1984/Discord-Channel-Bulk-Image-Download).*
+- [devine-dl](https://github.com/devine-dl/devine) *Modular Movie, TV, and Music Archival Software*
+- []() **
 
 **Music Rippers**
 
@@ -832,6 +934,7 @@ Basic Tidal subscription required - 'pro' gui
 - [T E X T F I L E S D O T C O M](http://www.textfiles.com/) *An Archive of txt files*
 - [Ghostarchive](https://ghostarchive.org/) *Archive a webpage for scholarly or research purposes.*
 - [Archive-today](https://archive.vn/) *Archive-today is a time capsule for web pages!*
+- [Coursewikia](https://coursewikia.com/tutorials/) *Tutorials Archives*
 - []() **
 
 #### 7. TORRENTS
@@ -890,7 +993,9 @@ Basic Tidal subscription required - 'pro' gui
 - [GitHub Pages](https://pages.github.com/) *Websites for you and your projects, hosted directly from your GitHub repository.*
 - [PasteHTML](https://pastehtml.com/) *The fastest & easiest HTML/TEXT hosting platfrom*
 - [Neocities](https://neocities.org/) *Create your own free website! Neocities is a commercial web hosting service for static pages.*
-- [Lookimg](https://lookimg.com/) *Blazing Fast Image Hosting - Upload and Share Images, Screenshots for free.*
+- [Sparked Paste](https://paste.sparked.host/) *Paste Service*
+- [snowbin](https://paste.fmhy.net/) *Delightfully crafted pastebin with <3.*
+- [pasteheaven](https://pasteheaven.com/) *#1 paste tool*
 - []() **
 
 ***
@@ -981,6 +1086,7 @@ Listubes   | Browse easily the videos of your favorites youtubers.   | https://l
 quiteaplaylist   | Hidden/Deleted/Private videos in YouTube Playlists? Let's find 'em!   | https://quiteaplaylist.com/
 VideoMentions   | Search YouTube to find videos that mention your brand, your product, or the topics you care about.   | https://videomentions.com/search
 YTGREP   | Extract and Returns The Top Most Replay Times From Youtube Videos   | https://ytgrep.com/
+YouTube Data Tools   | This is a collection of simple tools for extracting data from the YouTube platform via the YouTube API v3.   | https://ytdt.digitalmethods.net/
 Cell   | Cell   | Cell
 
 #### 📼 YouTube Channels
@@ -1131,6 +1237,10 @@ Cell   | Cell   | Cell
 - [Real-time Black Hole](http://spiro.fisica.unipd.it/~antonell/schwarzschild/) *A real-time simulation of the visual appearance of a Schwarzschild Black Hole.*
 - [Therabbithole-wiki](https://therabbithole.wiki/archive/) *Therabbithole-wiki - An Exhibition of literary curiosities*
 - [LIMINAL ARCHIVES](http://liminal-archives.wikidot.com/) *LIMINAL ARCHIVES - Exploring spaces which shouldn't exist*
+- [The Ex-Classics Web Site](https://www.exclassics.com/) *Obscure Books*
+- [The Phrontistery](https://phrontistery.info/) *Obscure Words and Vocabulary Resources*
+- [The XY Problem](https://xyproblem.info/) *The XY Problem*
+- [MajorGeeks](https://www.majorgeeks.com/) *MajorGeeks*
 - []() **
 
 #### -> 🧑 Interesting People with Useful Stuff <-
@@ -1178,6 +1288,8 @@ Cell   | Cell   | Cell
 - [Rentry Text Colors](https://rentry.org/rentry-text-colors)
 - [Lostwave](https://en.m.wikipedia.org/wiki/Lostwave)
 - [Signalnoise :: The Art of James White](https://signalnoise.com/)
+- [WebGL Fluid Simulation - Play with fluids in your browser (works even on mobile)](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) - [Github](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
+- [jwz - cool ass blog and more](https://www.jwz.org/)
 - []()
 
 ***
